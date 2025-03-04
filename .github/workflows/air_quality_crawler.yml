@@ -27,22 +27,21 @@ jobs:
       env:
         WAQI_API_KEY: ${{ secrets.WAQI_API_KEY }}
       run: |
-        # Thay thế API key trong script
-        sed -i "s/API_KEY = \".*\"/API_KEY = \"$WAQI_API_KEY\"/g" air_quality_crawler.py
-        
         python air_quality_crawler.py
     
     - name: Commit and push data
+      env:
+        GITHUB_TOKEN: ${{ secrets.GH_PAT }}
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add result/*
         
-        # Kiểm tra xem có thay đổi không
+        git add result/
+        
         if git diff --staged --quiet; then
           echo "No changes to commit"
           exit 0
         fi
         
         git commit -m "Add air quality data - $(date +'%Y-%m-%d %H:%M:%S')"
-        git push origin main
+        git push https://${{ secrets.GH_PAT }}@github.com/${{ github.repository }}.git
