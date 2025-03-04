@@ -11,8 +11,7 @@ BASE_URL = "https://api.waqi.info/feed/geo:{lat};{lon}/?token=" + API_KEY
 
 CITIES = [
     {
-        "name": "hanoi",
-        "display_name": "Hà Nội",
+        "name": "ha-noi",
         "station_locations": [
             (21.0811211, 105.8180306),
             (21.01525, 105.80013),
@@ -25,18 +24,47 @@ CITIES = [
         ]
     },
     {
+        "name": "ho-chi-minh",
+        "station_locations": [
+            (10.65961, 106.727916)
+        ]
+    },
+    {
         "name": "hue",
-        "display_name": "Thừa Thiên Huế",
         "station_locations": [
             (16.46226, 107.596351)
         ]
     },
     {
-        "name": "danang",
-        "display_name": "Đà Nẵng",
+        "name": "da-nang",
         "station_locations": [
             (16.043252, 108.206826),
             (16.074, 108.217)
+        ]
+    },
+    {
+        "name": "can-tho",
+        "station_locations": [
+            (10.026977, 105.768249)
+        ]
+    },
+    {
+        "name": "vung-tau",
+        "station_locations": [
+            (10.589853, 107.131743)
+        ]
+    },
+    {
+        "name": "cao-bang",
+        "station_locations": [
+            (22.67953, 106.215361),
+            (22.6782, 106.245)
+        ]
+    },
+    {
+        "name": "nha-trang",
+        "station_locations": [
+            (12.284358, 109.192524)
         ]
     }
 ]
