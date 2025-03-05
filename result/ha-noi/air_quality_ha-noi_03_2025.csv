@@ -119,3 +119,11 @@ timestamp,station_id,city_name,url,latitude,longitude,aqi,co,temperature,wind,at
 2025-03-05 13:00:00,13251,"Hà Nội/UBND P. Minh Khai, Bắc Từ Liêm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-p.-minh-khai--bac-tu-liem,21.04975,105.74187,103,0.1,26,2.8,1009,78,N/A,103,1.9,N/A
 2025-03-05 13:00:00,13422,"Hà Nội/Mầm non Vân Hà – Đông Anh, Vietnam",https://aqicn.org/city/vietnam/ha-noi/mam-non-van-ha---dong-anh,21.148273,105.913306,86,0.1,26,3,1008,78,86,30,N/A,4
 2025-03-05 13:00:00,13439,"Hà Nội/UBND xã An Khánh - Hoài Đức, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-xa-an-khanh-hoai-duc,21.002383,105.718038,118,0.1,26,3,1008,78,118,47,N/A,12
+2025-03-05 14:00:00,8688,"United Nations International School of Hanoi, Vietnam (Trường Quốc tế Liên Hợp Quốc Hà Nội)",https://aqicn.org/city/vietnam/hanoi/unis,21.0811211,105.8180306,149,N/A,26,4.6,1007.5,85,149,N/A,N/A,N/A
+2025-03-05 14:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.01525,105.80013,104,0.1,27,4.6,1008,74,104,N/A,3.9,40
+2025-03-05 15:00:00,1583,"Hanoi, Vietnam (Hà Nội)",https://aqicn.org/city/vietnam/hanoi,21.0491,105.8831,81,7,27.5,4.6,1007.5,74,81,57,6,2
+2025-03-05 14:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.0215063,105.8188748,104,0.1,27,4.6,1008,74,104,N/A,3.9,40
+2025-03-05 14:00:00,13427,"Hà Nội/TT giao lưu văn hóa phố cổ - Hoàn Kiếm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/tt-giao-luu-van-hoa-pho-co-hoan-kiem,21.035584,105.852771,103,0.1,27.5,4.6,1007.5,74,103,44,N/A,25.3
+2025-03-05 14:00:00,13251,"Hà Nội/UBND P. Minh Khai, Bắc Từ Liêm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-p.-minh-khai--bac-tu-liem,21.04975,105.74187,100,0.1,27,4.6,1008,74,N/A,100,5.6,N/A
+2025-03-05 15:00:00,1583,"Hanoi, Vietnam (Hà Nội)",https://aqicn.org/city/vietnam/hanoi,21.148273,105.913306,81,7,27.5,4.6,1007.5,74,81,57,6,2
+2025-03-05 14:00:00,13439,"Hà Nội/UBND xã An Khánh - Hoài Đức, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-xa-an-khanh-hoai-duc,21.002383,105.718038,112,0.1,27.5,4.6,1007.5,74,112,43,N/A,11.7
