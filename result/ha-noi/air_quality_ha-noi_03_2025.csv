@@ -7,3 +7,267 @@ timestamp,station_id,city_name,url,latitude,longitude,aqi,co,temperature,wind,at
 2025-03-04 23:00:00,13251,"Hà Nội/UBND P. Minh Khai, Bắc Từ Liêm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-p.-minh-khai--bac-tu-liem,21.04975,105.74187,68,0.1,24,2.5,1007,94,N/A,68,3.8,N/A
 2025-03-04 22:00:00,13422,"Hà Nội/Mầm non Vân Hà – Đông Anh, Vietnam",https://aqicn.org/city/vietnam/ha-noi/mam-non-van-ha---dong-anh,21.148273,105.913306,83,0.1,24,3,1007,88,83,29,N/A,5
 2025-03-04 22:00:00,13439,"Hà Nội/UBND xã An Khánh - Hoài Đức, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-xa-an-khanh-hoai-duc,21.002383,105.718038,72,0.1,24,3,1007,88,72,25,N/A,8
+2025-03-04 22:00:00,8688,"United Nations International School of Hanoi, Vietnam (Trường Quốc tế Liên Hợp Quốc Hà Nội)",https://aqicn.org/city/vietnam/hanoi/unis,21.0811211,105.8180306,128,N/A,24,2.5,1007,93,128,N/A,N/A,N/A
+2025-03-04 23:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.01525,105.80013,65,0.1,24,2.5,1007,94,65,N/A,4.2,39.1
+2025-03-05 00:00:00,1583,"Hanoi, Vietnam (Hà Nội)",https://aqicn.org/city/vietnam/hanoi,21.0491,105.8831,84,3,24,3.3,1007,94,84,54,8,2
+2025-03-04 18:00:00,8641,"Hanoi US Embassy, Vietnam (Đại sứ quán Mỹ, Hà Nội)",https://aqicn.org/city/vietnam/hanoi/us-embassy,21.0215063,105.8188748,82,0.1,24,3.3,1007,94,82,N/A,3.3,1
+2025-03-04 23:00:00,13427,"Hà Nội/TT giao lưu văn hóa phố cổ - Hoàn Kiếm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/tt-giao-luu-van-hoa-pho-co-hoan-kiem,21.035584,105.852771,77,0.1,24,2.5,1007,94,77,34,N/A,19
+2025-03-04 23:00:00,13251,"Hà Nội/UBND P. Minh Khai, Bắc Từ Liêm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-p.-minh-khai--bac-tu-liem,21.04975,105.74187,68,0.1,24,2.5,1007,94,N/A,68,3.8,N/A
+2025-03-04 23:00:00,13422,"Hà Nội/Mầm non Vân Hà – Đông Anh, Vietnam",https://aqicn.org/city/vietnam/ha-noi/mam-non-van-ha---dong-anh,21.148273,105.913306,83,0.1,24,2.5,1007,94,83,29,N/A,4.3
+2025-03-04 23:00:00,13439,"Hà Nội/UBND xã An Khánh - Hoài Đức, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-xa-an-khanh-hoai-duc,21.002383,105.718038,62,0.1,24,2.5,1007,94,62,21,N/A,7.5
+2025-03-05 00:00:00,8688,"United Nations International School of Hanoi, Vietnam (Trường Quốc tế Liên Hợp Quốc Hà Nội)",https://aqicn.org/city/vietnam/hanoi/unis,21.0811211,105.8180306,132,N/A,23,3.8,1007,100,132,N/A,N/A,N/A
+2025-03-05 00:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.01525,105.80013,52,0.1,24,3.6,1007,88,52,N/A,3,39.1
+2025-03-05 01:00:00,1583,"Hanoi, Vietnam (Hà Nội)",https://aqicn.org/city/vietnam/hanoi,21.0491,105.8831,76,2,24,3.8,1007,91,76,52,8,2
+2025-03-04 18:00:00,8641,"Hanoi US Embassy, Vietnam (Đại sứ quán Mỹ, Hà Nội)",https://aqicn.org/city/vietnam/hanoi/us-embassy,21.0215063,105.8188748,82,0.1,24,3.8,1007,91,82,N/A,3.3,1
+2025-03-05 00:00:00,13427,"Hà Nội/TT giao lưu văn hóa phố cổ - Hoàn Kiếm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/tt-giao-luu-van-hoa-pho-co-hoan-kiem,21.035584,105.852771,74,0.1,24,3.6,1007,88,74,32,N/A,19.4
+2025-03-05 00:00:00,13251,"Hà Nội/UBND P. Minh Khai, Bắc Từ Liêm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-p.-minh-khai--bac-tu-liem,21.04975,105.74187,71,0.1,24,3.6,1007,88,N/A,71,5.4,N/A
+2025-03-05 00:00:00,13422,"Hà Nội/Mầm non Vân Hà – Đông Anh, Vietnam",https://aqicn.org/city/vietnam/ha-noi/mam-non-van-ha---dong-anh,21.148273,105.913306,83,0.1,24,3.6,1007,88,83,29,N/A,3.8
+2025-03-05 00:00:00,13439,"Hà Nội/UBND xã An Khánh - Hoài Đức, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-xa-an-khanh-hoai-duc,21.002383,105.718038,61,0.1,24,3.6,1007,88,61,21,N/A,7.3
+2025-03-05 01:00:00,8688,"United Nations International School of Hanoi, Vietnam (Trường Quốc tế Liên Hợp Quốc Hà Nội)",https://aqicn.org/city/vietnam/hanoi/unis,21.0811211,105.8180306,129,N/A,23,2.8,1007,100,129,N/A,N/A,N/A
+2025-03-05 01:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.01525,105.80013,38,0.1,23,3,1007,100,38,N/A,3.6,38.2
+2025-03-05 02:00:00,1583,"Hanoi, Vietnam (Hà Nội)",https://aqicn.org/city/vietnam/hanoi,21.0491,105.8831,71,2,23,2.8,1007,100,71,50,8,2
+2025-03-05 01:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.0215063,105.8188748,38,0.1,23,3,1007,100,38,N/A,3.6,38.2
+2025-03-05 01:00:00,13427,"Hà Nội/TT giao lưu văn hóa phố cổ - Hoàn Kiếm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/tt-giao-luu-van-hoa-pho-co-hoan-kiem,21.035584,105.852771,75,0.1,23,3,1007,100,75,32,N/A,13.3
+2025-03-05 01:00:00,13251,"Hà Nội/UBND P. Minh Khai, Bắc Từ Liêm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-p.-minh-khai--bac-tu-liem,21.04975,105.74187,60,0.1,23,3,1007,100,N/A,60,2.8,N/A
+2025-03-05 01:00:00,13422,"Hà Nội/Mầm non Vân Hà – Đông Anh, Vietnam",https://aqicn.org/city/vietnam/ha-noi/mam-non-van-ha---dong-anh,21.148273,105.913306,95,0.1,23,3,1007,100,95,34,N/A,3.2
+2025-03-05 01:00:00,13439,"Hà Nội/UBND xã An Khánh - Hoài Đức, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-xa-an-khanh-hoai-duc,21.002383,105.718038,54,0.1,23,3,1007,100,54,18,N/A,7.2
+2025-03-05 02:00:00,8688,"United Nations International School of Hanoi, Vietnam (Trường Quốc tế Liên Hợp Quốc Hà Nội)",https://aqicn.org/city/vietnam/hanoi/unis,21.0811211,105.8180306,130,N/A,24,2.5,1007,99,130,N/A,N/A,N/A
+2025-03-05 03:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.01525,105.80013,61,0.1,23,2.5,1007,100,61,N/A,2.3,38.3
+2025-03-05 03:00:00,1583,"Hanoi, Vietnam (Hà Nội)",https://aqicn.org/city/vietnam/hanoi,21.0491,105.8831,65,2,23,2.5,1007,100,65,49,8,2
+2025-03-05 03:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.0215063,105.8188748,61,0.1,23,2.5,1007,100,61,N/A,2.3,38.3
+2025-03-05 02:00:00,13427,"Hà Nội/TT giao lưu văn hóa phố cổ - Hoàn Kiếm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/tt-giao-luu-van-hoa-pho-co-hoan-kiem,21.035584,105.852771,73,0.1,23,2,1007,100,73,31,N/A,11.4
+2025-03-05 02:00:00,13251,"Hà Nội/UBND P. Minh Khai, Bắc Từ Liêm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-p.-minh-khai--bac-tu-liem,21.04975,105.74187,58,0.1,23,2.8,1007,100,N/A,58,7.9,N/A
+2025-03-05 02:00:00,13422,"Hà Nội/Mầm non Vân Hà – Đông Anh, Vietnam",https://aqicn.org/city/vietnam/ha-noi/mam-non-van-ha---dong-anh,21.148273,105.913306,97,0.1,23,2,1007,100,97,35,N/A,3.1
+2025-03-05 02:00:00,13439,"Hà Nội/UBND xã An Khánh - Hoài Đức, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-xa-an-khanh-hoai-duc,21.002383,105.718038,75,0.1,23,2,1007,100,75,26,N/A,7.1
+2025-03-05 03:00:00,8688,"United Nations International School of Hanoi, Vietnam (Trường Quốc tế Liên Hợp Quốc Hà Nội)",https://aqicn.org/city/vietnam/hanoi/unis,21.0811211,105.8180306,125,N/A,23,2.5,1007,99,125,N/A,N/A,N/A
+2025-03-05 03:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.01525,105.80013,61,0.1,23,2.5,1007,100,61,N/A,2.3,38.3
+2025-03-05 04:00:00,1583,"Hanoi, Vietnam (Hà Nội)",https://aqicn.org/city/vietnam/hanoi,21.0491,105.8831,60,2,23,2.5,1007,100,60,41,9,2
+2025-03-05 03:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.0215063,105.8188748,61,0.1,23,2.5,1007,100,61,N/A,2.3,38.3
+2025-03-05 03:00:00,13427,"Hà Nội/TT giao lưu văn hóa phố cổ - Hoàn Kiếm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/tt-giao-luu-van-hoa-pho-co-hoan-kiem,21.035584,105.852771,73,0.1,23,2.5,1007,100,73,32,N/A,10.3
+2025-03-05 03:00:00,13251,"Hà Nội/UBND P. Minh Khai, Bắc Từ Liêm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-p.-minh-khai--bac-tu-liem,21.04975,105.74187,56,0.1,23,2.5,1007,100,N/A,56,2.3,N/A
+2025-03-05 03:00:00,13422,"Hà Nội/Mầm non Vân Hà – Đông Anh, Vietnam",https://aqicn.org/city/vietnam/ha-noi/mam-non-van-ha---dong-anh,21.148273,105.913306,87,0.1,23,2.5,1007,100,87,31,N/A,2.9
+2025-03-05 03:00:00,13439,"Hà Nội/UBND xã An Khánh - Hoài Đức, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-xa-an-khanh-hoai-duc,21.002383,105.718038,67,0.1,23,2.5,1007,100,67,23,N/A,6.7
+2025-03-05 03:00:00,8688,"United Nations International School of Hanoi, Vietnam (Trường Quốc tế Liên Hợp Quốc Hà Nội)",https://aqicn.org/city/vietnam/hanoi/unis,21.0811211,105.8180306,125,N/A,23.5,3,1007,99,125,N/A,N/A,N/A
+2025-03-05 04:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.01525,105.80013,64,0.1,23,3,1007,94,64,N/A,3.5,38.5
+2025-03-05 05:00:00,1583,"Hanoi, Vietnam (Hà Nội)",https://aqicn.org/city/vietnam/hanoi,21.0491,105.8831,52,2,23,3.3,1007,94,52,34,7,1
+2025-03-05 04:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.0215063,105.8188748,64,0.1,23,3,1007,94,64,N/A,3.5,38.5
+2025-03-05 04:00:00,13427,"Hà Nội/TT giao lưu văn hóa phố cổ - Hoàn Kiếm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/tt-giao-luu-van-hoa-pho-co-hoan-kiem,21.035584,105.852771,65,0.1,23,3.3,1007,94,65,27,N/A,11.7
+2025-03-05 04:00:00,13251,"Hà Nội/UBND P. Minh Khai, Bắc Từ Liêm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-p.-minh-khai--bac-tu-liem,21.04975,105.74187,56,0.1,23,3,1007,94,N/A,56,4.3,N/A
+2025-03-05 04:00:00,13422,"Hà Nội/Mầm non Vân Hà – Đông Anh, Vietnam",https://aqicn.org/city/vietnam/ha-noi/mam-non-van-ha---dong-anh,21.148273,105.913306,71,0.1,23,3,1007,94,71,24,N/A,2.6
+2025-03-05 04:00:00,13439,"Hà Nội/UBND xã An Khánh - Hoài Đức, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-xa-an-khanh-hoai-duc,21.002383,105.718038,85,0.1,23,3.3,1007,94,85,30,N/A,6.5
+2025-03-05 04:00:00,8688,"United Nations International School of Hanoi, Vietnam (Trường Quốc tế Liên Hợp Quốc Hà Nội)",https://aqicn.org/city/vietnam/hanoi/unis,21.0811211,105.8180306,108,N/A,23,3,1008,99,108,N/A,N/A,N/A
+2025-03-05 05:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.01525,105.80013,50,0.1,23,3,1008,100,50,N/A,3.3,37.7
+2025-03-05 06:00:00,1583,"Hanoi, Vietnam (Hà Nội)",https://aqicn.org/city/vietnam/hanoi,21.0491,105.8831,44,4,23,3.3,1008,97,44,28,5,1
+2025-03-05 05:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.0215063,105.8188748,50,0.1,23,3,1008,100,50,N/A,3.3,37.7
+2025-03-05 05:00:00,13427,"Hà Nội/TT giao lưu văn hóa phố cổ - Hoàn Kiếm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/tt-giao-luu-van-hoa-pho-co-hoan-kiem,21.035584,105.852771,57,0.1,23,3,1008,100,57,23,N/A,14.3
+2025-03-05 05:00:00,13251,"Hà Nội/UBND P. Minh Khai, Bắc Từ Liêm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-p.-minh-khai--bac-tu-liem,21.04975,105.74187,52,0.1,23,3,1008,100,N/A,52,2.2,N/A
+2025-03-05 05:00:00,13422,"Hà Nội/Mầm non Vân Hà – Đông Anh, Vietnam",https://aqicn.org/city/vietnam/ha-noi/mam-non-van-ha---dong-anh,21.148273,105.913306,66,0.1,23,3,1008,100,66,24,N/A,2.6
+2025-03-05 05:00:00,13439,"Hà Nội/UBND xã An Khánh - Hoài Đức, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-xa-an-khanh-hoai-duc,21.002383,105.718038,106,0.1,23,3,1008,100,106,39,N/A,6.1
+2025-03-05 06:00:00,8688,"United Nations International School of Hanoi, Vietnam (Trường Quốc tế Liên Hợp Quốc Hà Nội)",https://aqicn.org/city/vietnam/hanoi/unis,21.0811211,105.8180306,106,N/A,23,4.8,1008.5,100,106,N/A,N/A,N/A
+2025-03-05 07:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.01525,105.80013,33,0.1,23,4.1,1009,94,33,N/A,3,38.1
+2025-03-05 07:00:00,1583,"Hanoi, Vietnam (Hà Nội)",https://aqicn.org/city/vietnam/hanoi,21.0491,105.8831,43,8,23,4.8,1008.5,94,43,28,4,2
+2025-03-05 07:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.0215063,105.8188748,33,0.1,23,4.1,1009,94,33,N/A,3,38.1
+2025-03-05 07:00:00,13427,"Hà Nội/TT giao lưu văn hóa phố cổ - Hoàn Kiếm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/tt-giao-luu-van-hoa-pho-co-hoan-kiem,21.035584,105.852771,59,0.1,23,4.1,1009,94,59,24,N/A,17.5
+2025-03-05 07:00:00,13251,"Hà Nội/UBND P. Minh Khai, Bắc Từ Liêm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-p.-minh-khai--bac-tu-liem,21.04975,105.74187,61,0.1,23,4.1,1009,94,N/A,61,2.7,N/A
+2025-03-05 07:00:00,13422,"Hà Nội/Mầm non Vân Hà – Đông Anh, Vietnam",https://aqicn.org/city/vietnam/ha-noi/mam-non-van-ha---dong-anh,21.148273,105.913306,79,0.1,23,4.1,1009,94,79,27,N/A,2.7
+2025-03-05 07:00:00,13439,"Hà Nội/UBND xã An Khánh - Hoài Đức, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-xa-an-khanh-hoai-duc,21.002383,105.718038,64,0.1,23,4.1,1009,94,64,22,N/A,8.2
+2025-03-05 08:00:00,8688,"United Nations International School of Hanoi, Vietnam (Trường Quốc tế Liên Hợp Quốc Hà Nội)",https://aqicn.org/city/vietnam/hanoi/unis,21.0811211,105.8180306,128,N/A,23,3.6,1010,100,128,N/A,N/A,N/A
+2025-03-05 08:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.01525,105.80013,48,0.1,23,3.6,1010,94,48,N/A,2.5,39.4
+2025-03-05 09:00:00,1583,"Hanoi, Vietnam (Hà Nội)",https://aqicn.org/city/vietnam/hanoi,21.0491,105.8831,63,13,24,3,1011,88,63,49,4,2
+2025-03-05 08:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.0215063,105.8188748,48,0.1,23,3.6,1010,94,48,N/A,2.5,39.4
+2025-03-05 08:00:00,13427,"Hà Nội/TT giao lưu văn hóa phố cổ - Hoàn Kiếm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/tt-giao-luu-van-hoa-pho-co-hoan-kiem,21.035584,105.852771,76,0.1,23,3.6,1010,94,76,33,N/A,21.1
+2025-03-05 09:00:00,13251,"Hà Nội/UBND P. Minh Khai, Bắc Từ Liêm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-p.-minh-khai--bac-tu-liem,21.04975,105.74187,54,0.1,24,3,1011,88,N/A,54,2.4,N/A
+2025-03-05 08:00:00,13422,"Hà Nội/Mầm non Vân Hà – Đông Anh, Vietnam",https://aqicn.org/city/vietnam/ha-noi/mam-non-van-ha---dong-anh,21.148273,105.913306,94,0.1,23,3.6,1010,94,94,33,N/A,4
+2025-03-05 08:00:00,13439,"Hà Nội/UBND xã An Khánh - Hoài Đức, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-xa-an-khanh-hoai-duc,21.002383,105.718038,102,0.1,23,3.6,1010,94,102,37,N/A,10.4
+2025-03-05 09:00:00,8688,"United Nations International School of Hanoi, Vietnam (Trường Quốc tế Liên Hợp Quốc Hà Nội)",https://aqicn.org/city/vietnam/hanoi/unis,21.0811211,105.8180306,140,N/A,24,3,1011,97,140,N/A,N/A,N/A
+2025-03-05 09:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.01525,105.80013,39,0.1,24,3,1011,88,39,N/A,1.6,38.8
+2025-03-05 10:00:00,1583,"Hanoi, Vietnam (Hà Nội)",https://aqicn.org/city/vietnam/hanoi,21.0491,105.8831,81,10,24.5,3.6,1011,88,81,56,4,2
+2025-03-05 09:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.0215063,105.8188748,39,0.1,24,3,1011,88,39,N/A,1.6,38.8
+2025-03-05 09:00:00,13427,"Hà Nội/TT giao lưu văn hóa phố cổ - Hoàn Kiếm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/tt-giao-luu-van-hoa-pho-co-hoan-kiem,21.035584,105.852771,81,0.1,24,3,1011,88,81,35,N/A,26.3
+2025-03-05 10:00:00,13251,"Hà Nội/UBND P. Minh Khai, Bắc Từ Liêm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-p.-minh-khai--bac-tu-liem,21.04975,105.74187,56,0.1,25,4.1,1010,83,N/A,56,4,N/A
+2025-03-05 09:00:00,13422,"Hà Nội/Mầm non Vân Hà – Đông Anh, Vietnam",https://aqicn.org/city/vietnam/ha-noi/mam-non-van-ha---dong-anh,21.148273,105.913306,90,0.1,24,3,1011,88,90,32,N/A,4.7
+2025-03-05 09:00:00,13439,"Hà Nội/UBND xã An Khánh - Hoài Đức, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-xa-an-khanh-hoai-duc,21.002383,105.718038,116,0.1,24,3,1011,88,116,46,N/A,10.3
+2025-03-05 09:00:00,8688,"United Nations International School of Hanoi, Vietnam (Trường Quốc tế Liên Hợp Quốc Hà Nội)",https://aqicn.org/city/vietnam/hanoi/unis,21.0811211,105.8180306,140,N/A,24,4.1,1010,96,140,N/A,N/A,N/A
+2025-03-05 11:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.01525,105.80013,80,0.1,25,4.3,1010,83,80,N/A,2.8,39
+2025-03-05 11:00:00,1583,"Hanoi, Vietnam (Hà Nội)",https://aqicn.org/city/vietnam/hanoi,21.0491,105.8831,87,7,25,4.3,1010,83,87,59,5,2
+2025-03-05 11:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.0215063,105.8188748,80,0.1,25,4.3,1010,83,80,N/A,2.8,39
+2025-03-05 10:00:00,13427,"Hà Nội/TT giao lưu văn hóa phố cổ - Hoàn Kiếm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/tt-giao-luu-van-hoa-pho-co-hoan-kiem,21.035584,105.852771,79,0.1,25,4.1,1010,83,79,35,N/A,24.9
+2025-03-05 10:00:00,13251,"Hà Nội/UBND P. Minh Khai, Bắc Từ Liêm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-p.-minh-khai--bac-tu-liem,21.04975,105.74187,56,0.1,25,4.1,1010,83,N/A,56,4,N/A
+2025-03-05 10:00:00,13422,"Hà Nội/Mầm non Vân Hà – Đông Anh, Vietnam",https://aqicn.org/city/vietnam/ha-noi/mam-non-van-ha---dong-anh,21.148273,105.913306,82,0.1,25,4.1,1010,83,82,29,N/A,4.4
+2025-03-05 10:00:00,13439,"Hà Nội/UBND xã An Khánh - Hoài Đức, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-xa-an-khanh-hoai-duc,21.002383,105.718038,144,0.1,25,4.1,1010,83,144,57,N/A,9.3
+2025-03-05 11:00:00,8688,"United Nations International School of Hanoi, Vietnam (Trường Quốc tế Liên Hợp Quốc Hà Nội)",https://aqicn.org/city/vietnam/hanoi/unis,21.0811211,105.8180306,147,N/A,25,3,1009,90,147,N/A,N/A,N/A
+2025-03-05 11:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.01525,105.80013,80,0.1,25,4.3,1010,83,80,N/A,2.8,39
+2025-03-05 11:00:00,1583,"Hanoi, Vietnam (Hà Nội)",https://aqicn.org/city/vietnam/hanoi,21.0491,105.8831,87,7,25,4.3,1010,83,87,59,5,2
+2025-03-05 11:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.0215063,105.8188748,80,0.1,25,4.3,1010,83,80,N/A,2.8,39
+2025-03-05 11:00:00,13427,"Hà Nội/TT giao lưu văn hóa phố cổ - Hoàn Kiếm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/tt-giao-luu-van-hoa-pho-co-hoan-kiem,21.035584,105.852771,82,0.1,25,4.3,1010,83,82,36,N/A,22.6
+2025-03-05 11:00:00,13439,"Hà Nội/UBND xã An Khánh - Hoài Đức, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-xa-an-khanh-hoai-duc,21.04975,105.74187,134,0.1,25,4.3,1010,83,134,54,N/A,9.7
+2025-03-05 11:00:00,13422,"Hà Nội/Mầm non Vân Hà – Đông Anh, Vietnam",https://aqicn.org/city/vietnam/ha-noi/mam-non-van-ha---dong-anh,21.148273,105.913306,93,0.1,25,4.3,1010,83,93,33,N/A,4.3
+2025-03-05 11:00:00,13439,"Hà Nội/UBND xã An Khánh - Hoài Đức, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-xa-an-khanh-hoai-duc,21.002383,105.718038,134,0.1,25,4.3,1010,83,134,54,N/A,9.7
+2025-03-05 12:00:00,8688,"United Nations International School of Hanoi, Vietnam (Trường Quốc tế Liên Hợp Quốc Hà Nội)",https://aqicn.org/city/vietnam/hanoi/unis,21.0811211,105.8180306,146,N/A,26,2.8,1009,88,146,N/A,N/A,N/A
+2025-03-05 13:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.01525,105.80013,96,0.1,26,2.8,1009,78,96,N/A,4.2,39.6
+2025-03-05 13:00:00,1583,"Hanoi, Vietnam (Hà Nội)",https://aqicn.org/city/vietnam/hanoi,21.0491,105.8831,83,10,26,2.8,1009,78,83,59,6,2
+2025-03-05 13:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.0215063,105.8188748,96,0.1,26,2.8,1009,78,96,N/A,4.2,39.6
+2025-03-05 12:00:00,13427,"Hà Nội/TT giao lưu văn hóa phố cổ - Hoàn Kiếm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/tt-giao-luu-van-hoa-pho-co-hoan-kiem,21.035584,105.852771,86,0.1,26,3,1009,78,86,38,N/A,25.1
+2025-03-05 12:00:00,13251,"Hà Nội/UBND P. Minh Khai, Bắc Từ Liêm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-p.-minh-khai--bac-tu-liem,21.04975,105.74187,91,0.1,26,3,1009,78,N/A,91,4.2,N/A
+2025-03-05 12:00:00,13422,"Hà Nội/Mầm non Vân Hà – Đông Anh, Vietnam",https://aqicn.org/city/vietnam/ha-noi/mam-non-van-ha---dong-anh,21.148273,105.913306,91,0.1,26,3,1009,78,91,32,N/A,4.4
+2025-03-05 12:00:00,13439,"Hà Nội/UBND xã An Khánh - Hoài Đức, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-xa-an-khanh-hoai-duc,21.002383,105.718038,127,0.1,26,3,1009,78,127,51,N/A,12.4
+2025-03-05 13:00:00,8688,"United Nations International School of Hanoi, Vietnam (Trường Quốc tế Liên Hợp Quốc Hà Nội)",https://aqicn.org/city/vietnam/hanoi/unis,21.0811211,105.8180306,147,N/A,26,3.3,1008,85,147,N/A,N/A,N/A
+2025-03-05 13:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.01525,105.80013,96,0.1,26,2.8,1009,78,96,N/A,4.2,39.6
+2025-03-05 14:00:00,1583,"Hanoi, Vietnam (Hà Nội)",https://aqicn.org/city/vietnam/hanoi,21.0491,105.8831,82,10,26,3.3,1008,78,82,58,6,2
+2025-03-05 13:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.0215063,105.8188748,96,0.1,26,2.8,1009,78,96,N/A,4.2,39.6
+2025-03-05 13:00:00,13427,"Hà Nội/TT giao lưu văn hóa phố cổ - Hoàn Kiếm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/tt-giao-luu-van-hoa-pho-co-hoan-kiem,21.035584,105.852771,91,0.1,26,3,1008,78,91,40,N/A,27.6
+2025-03-05 13:00:00,13251,"Hà Nội/UBND P. Minh Khai, Bắc Từ Liêm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-p.-minh-khai--bac-tu-liem,21.04975,105.74187,103,0.1,26,2.8,1009,78,N/A,103,1.9,N/A
+2025-03-05 13:00:00,13422,"Hà Nội/Mầm non Vân Hà – Đông Anh, Vietnam",https://aqicn.org/city/vietnam/ha-noi/mam-non-van-ha---dong-anh,21.148273,105.913306,86,0.1,26,3,1008,78,86,30,N/A,4
+2025-03-05 13:00:00,13439,"Hà Nội/UBND xã An Khánh - Hoài Đức, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-xa-an-khanh-hoai-duc,21.002383,105.718038,118,0.1,26,3,1008,78,118,47,N/A,12
+2025-03-05 14:00:00,8688,"United Nations International School of Hanoi, Vietnam (Trường Quốc tế Liên Hợp Quốc Hà Nội)",https://aqicn.org/city/vietnam/hanoi/unis,21.0811211,105.8180306,149,N/A,26,4.6,1007.5,85,149,N/A,N/A,N/A
+2025-03-05 14:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.01525,105.80013,104,0.1,27,4.6,1008,74,104,N/A,3.9,40
+2025-03-05 15:00:00,1583,"Hanoi, Vietnam (Hà Nội)",https://aqicn.org/city/vietnam/hanoi,21.0491,105.8831,81,7,27.5,4.6,1007.5,74,81,57,6,2
+2025-03-05 14:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.0215063,105.8188748,104,0.1,27,4.6,1008,74,104,N/A,3.9,40
+2025-03-05 14:00:00,13427,"Hà Nội/TT giao lưu văn hóa phố cổ - Hoàn Kiếm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/tt-giao-luu-van-hoa-pho-co-hoan-kiem,21.035584,105.852771,103,0.1,27.5,4.6,1007.5,74,103,44,N/A,25.3
+2025-03-05 14:00:00,13251,"Hà Nội/UBND P. Minh Khai, Bắc Từ Liêm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-p.-minh-khai--bac-tu-liem,21.04975,105.74187,100,0.1,27,4.6,1008,74,N/A,100,5.6,N/A
+2025-03-05 15:00:00,1583,"Hanoi, Vietnam (Hà Nội)",https://aqicn.org/city/vietnam/hanoi,21.148273,105.913306,81,7,27.5,4.6,1007.5,74,81,57,6,2
+2025-03-05 14:00:00,13439,"Hà Nội/UBND xã An Khánh - Hoài Đức, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-xa-an-khanh-hoai-duc,21.002383,105.718038,112,0.1,27.5,4.6,1007.5,74,112,43,N/A,11.7
+2025-03-05 15:00:00,8688,"United Nations International School of Hanoi, Vietnam (Trường Quốc tế Liên Hợp Quốc Hà Nội)",https://aqicn.org/city/vietnam/hanoi/unis,21.0811211,105.8180306,154,N/A,25,5.1,1007,88,154,N/A,N/A,N/A
+2025-03-05 15:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.01525,105.80013,91,0.1,28,5.1,1007,69,91,N/A,4.4,39.9
+2025-03-05 15:00:00,13427,"Hà Nội/TT giao lưu văn hóa phố cổ - Hoàn Kiếm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/tt-giao-luu-van-hoa-pho-co-hoan-kiem,21.0491,105.8831,86,0.1,27.5,4.8,1007,71.5,86,38,N/A,28.2
+2025-03-05 15:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.0215063,105.8188748,91,0.1,28,5.1,1007,69,91,N/A,4.4,39.9
+2025-03-05 15:00:00,13427,"Hà Nội/TT giao lưu văn hóa phố cổ - Hoàn Kiếm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/tt-giao-luu-van-hoa-pho-co-hoan-kiem,21.035584,105.852771,86,0.1,27.5,4.8,1007,71.5,86,38,N/A,28.2
+2025-03-05 15:00:00,13251,"Hà Nội/UBND P. Minh Khai, Bắc Từ Liêm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-p.-minh-khai--bac-tu-liem,21.04975,105.74187,95,0.1,28,5.1,1007,69,N/A,95,7.1,N/A
+2025-03-05 15:00:00,13422,"Hà Nội/Mầm non Vân Hà – Đông Anh, Vietnam",https://aqicn.org/city/vietnam/ha-noi/mam-non-van-ha---dong-anh,21.148273,105.913306,115,0.1,28,5.1,1007,69,115,43,N/A,2.7
+2025-03-05 15:00:00,13439,"Hà Nội/UBND xã An Khánh - Hoài Đức, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-xa-an-khanh-hoai-duc,21.002383,105.718038,117,0.1,27.5,4.8,1007,71.5,117,46,N/A,12.3
+2025-03-05 15:00:00,8688,"United Nations International School of Hanoi, Vietnam (Trường Quốc tế Liên Hợp Quốc Hà Nội)",https://aqicn.org/city/vietnam/hanoi/unis,21.0811211,105.8180306,154,N/A,25,5.1,1007,88,154,N/A,N/A,N/A
+2025-03-05 16:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.01525,105.80013,117,0.1,27,5.1,1007,74,117,N/A,3.9,39.1
+2025-03-05 15:00:00,8688,"United Nations International School of Hanoi, Vietnam (Trường Quốc tế Liên Hợp Quốc Hà Nội)",https://aqicn.org/city/vietnam/hanoi/unis,21.0491,105.8831,154,N/A,25,5.1,1007,88,154,N/A,N/A,N/A
+2025-03-05 16:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.0215063,105.8188748,117,0.1,27,5.1,1007,74,117,N/A,3.9,39.1
+2025-03-05 16:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.035584,105.852771,117,0.1,27,5.1,1007,74,117,N/A,3.9,39.1
+2025-03-05 16:00:00,13251,"Hà Nội/UBND P. Minh Khai, Bắc Từ Liêm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-p.-minh-khai--bac-tu-liem,21.04975,105.74187,96,0.1,27,5.1,1007,74,N/A,96,6.6,N/A
+2025-03-05 16:00:00,13422,"Hà Nội/Mầm non Vân Hà – Đông Anh, Vietnam",https://aqicn.org/city/vietnam/ha-noi/mam-non-van-ha---dong-anh,21.148273,105.913306,101,0.1,27,5.1,1007,74,101,36,N/A,4.3
+2025-03-05 16:00:00,13439,"Hà Nội/UBND xã An Khánh - Hoài Đức, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-xa-an-khanh-hoai-duc,21.002383,105.718038,120,0.1,27,5.1,1007,74,120,48,N/A,10.6
+2025-03-05 17:00:00,8688,"United Nations International School of Hanoi, Vietnam (Trường Quốc tế Liên Hợp Quốc Hà Nội)",https://aqicn.org/city/vietnam/hanoi/unis,21.0811211,105.8180306,148,N/A,25,4.1,1007,89,148,N/A,N/A,N/A
+2025-03-05 17:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.01525,105.80013,119,0.1,26.5,4.8,1007,76,119,N/A,2.2,38.3
+2025-03-05 17:00:00,8688,"United Nations International School of Hanoi, Vietnam (Trường Quốc tế Liên Hợp Quốc Hà Nội)",https://aqicn.org/city/vietnam/hanoi/unis,21.0491,105.8831,148,N/A,25,4.1,1007,89,148,N/A,N/A,N/A
+2025-03-05 17:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.0215063,105.8188748,119,0.1,26.5,4.8,1007,76,119,N/A,2.2,38.3
+2025-03-05 17:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.035584,105.852771,119,0.1,26.5,4.8,1007,76,119,N/A,2.2,38.3
+2025-03-05 17:00:00,13251,"Hà Nội/UBND P. Minh Khai, Bắc Từ Liêm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-p.-minh-khai--bac-tu-liem,21.04975,105.74187,95,0.1,26.5,4.8,1007,76,N/A,95,2,N/A
+2025-03-05 17:00:00,13422,"Hà Nội/Mầm non Vân Hà – Đông Anh, Vietnam",https://aqicn.org/city/vietnam/ha-noi/mam-non-van-ha---dong-anh,21.148273,105.913306,91,0.1,26.5,4.8,1007,76,91,32,N/A,4.8
+2025-03-05 17:00:00,13439,"Hà Nội/UBND xã An Khánh - Hoài Đức, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-xa-an-khanh-hoai-duc,21.002383,105.718038,118,0.1,26.5,4.8,1007,76,118,47,N/A,12.5
+2025-03-05 18:00:00,8688,"United Nations International School of Hanoi, Vietnam (Trường Quốc tế Liên Hợp Quốc Hà Nội)",https://aqicn.org/city/vietnam/hanoi/unis,21.0811211,105.8180306,151,N/A,25,4.6,1008,89,151,N/A,N/A,N/A
+2025-03-05 19:00:00,13251,"Hà Nội/UBND P. Minh Khai, Bắc Từ Liêm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-p.-minh-khai--bac-tu-liem,21.01525,105.80013,101,0.1,24,5.6,1009,69,N/A,101,5,N/A
+2025-03-05 19:00:00,1583,"Hanoi, Vietnam (Hà Nội)",https://aqicn.org/city/vietnam/hanoi,21.0491,105.8831,91,13,5,4.6,1008,251,91,62,4,2
+2025-03-05 18:00:00,8688,"United Nations International School of Hanoi, Vietnam (Trường Quốc tế Liên Hợp Quốc Hà Nội)",https://aqicn.org/city/vietnam/hanoi/unis,21.0215063,105.8188748,151,N/A,25,4.6,1008,89,151,N/A,N/A,N/A
+2025-03-05 19:00:00,1583,"Hanoi, Vietnam (Hà Nội)",https://aqicn.org/city/vietnam/hanoi,21.035584,105.852771,91,13,5,4.6,1008,251,91,62,4,2
+2025-03-05 19:00:00,13251,"Hà Nội/UBND P. Minh Khai, Bắc Từ Liêm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-p.-minh-khai--bac-tu-liem,21.04975,105.74187,101,0.1,24,5.6,1009,69,N/A,101,5,N/A
+2025-03-05 18:00:00,13422,"Hà Nội/Mầm non Vân Hà – Đông Anh, Vietnam",https://aqicn.org/city/vietnam/ha-noi/mam-non-van-ha---dong-anh,21.148273,105.913306,96,0.1,26,4.1,1007,78,96,34,N/A,5.6
+2025-03-05 18:00:00,13439,"Hà Nội/UBND xã An Khánh - Hoài Đức, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-xa-an-khanh-hoai-duc,21.002383,105.718038,115,0.1,26,4.1,1007,78,115,45,N/A,15.5
+2025-03-05 19:00:00,8688,"United Nations International School of Hanoi, Vietnam (Trường Quốc tế Liên Hợp Quốc Hà Nội)",https://aqicn.org/city/vietnam/hanoi/unis,21.0811211,105.8180306,153,N/A,24,5.9,1009.5,89,153,N/A,N/A,N/A
+2025-03-05 20:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.01525,105.80013,80,0.1,23,5.1,1011,73,80,N/A,2.1,39.9
+2025-03-05 20:00:00,1583,"Hanoi, Vietnam (Hà Nội)",https://aqicn.org/city/vietnam/hanoi,21.0491,105.8831,97,12,23,5.1,1011,73,97,63,4,2
+2025-03-05 20:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.0215063,105.8188748,80,0.1,23,5.1,1011,73,80,N/A,2.1,39.9
+2025-03-05 19:00:00,13427,"Hà Nội/TT giao lưu văn hóa phố cổ - Hoàn Kiếm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/tt-giao-luu-van-hoa-pho-co-hoan-kiem,21.035584,105.852771,85,0.1,24,5.6,1009,69,85,38,N/A,31.4
+2025-03-05 20:00:00,13251,"Hà Nội/UBND P. Minh Khai, Bắc Từ Liêm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-p.-minh-khai--bac-tu-liem,21.04975,105.74187,105,0.1,23,5.1,1011,73,N/A,105,2.7,N/A
+2025-03-05 19:00:00,13422,"Hà Nội/Mầm non Vân Hà – Đông Anh, Vietnam",https://aqicn.org/city/vietnam/ha-noi/mam-non-van-ha---dong-anh,21.148273,105.913306,160,0.1,24,5.6,1009,69,160,67,N/A,7.1
+2025-03-05 19:00:00,13439,"Hà Nội/UBND xã An Khánh - Hoài Đức, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-xa-an-khanh-hoai-duc,21.002383,105.718038,110,0.1,24,5.6,1009,69,110,42,N/A,15.6
+2025-03-05 20:00:00,8688,"United Nations International School of Hanoi, Vietnam (Trường Quốc tế Liên Hợp Quốc Hà Nội)",https://aqicn.org/city/vietnam/hanoi/unis,21.0811211,105.8180306,160,N/A,24,5.1,1011,81,160,N/A,N/A,N/A
+2025-03-05 20:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.01525,105.80013,80,0.1,23,5.1,1011,73,80,N/A,2.1,39.9
+2025-03-05 21:00:00,1583,"Hanoi, Vietnam (Hà Nội)",https://aqicn.org/city/vietnam/hanoi,21.0491,105.8831,104,11,23,4.8,1011,70.5,104,65,3,2
+2025-03-05 20:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.0215063,105.8188748,80,0.1,23,5.1,1011,73,80,N/A,2.1,39.9
+2025-03-05 20:00:00,13427,"Hà Nội/TT giao lưu văn hóa phố cổ - Hoàn Kiếm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/tt-giao-luu-van-hoa-pho-co-hoan-kiem,21.035584,105.852771,96,0.1,23,5.1,1011,73,96,44,N/A,31
+2025-03-05 20:00:00,13251,"Hà Nội/UBND P. Minh Khai, Bắc Từ Liêm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-p.-minh-khai--bac-tu-liem,21.04975,105.74187,105,0.1,23,5.1,1011,73,N/A,105,2.7,N/A
+2025-03-05 20:00:00,13422,"Hà Nội/Mầm non Vân Hà – Đông Anh, Vietnam",https://aqicn.org/city/vietnam/ha-noi/mam-non-van-ha---dong-anh,21.148273,105.913306,176,0.1,23,5.1,1011,73,176,82,N/A,6.9
+2025-03-05 20:00:00,13439,"Hà Nội/UBND xã An Khánh - Hoài Đức, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-xa-an-khanh-hoai-duc,21.002383,105.718038,108,0.1,23,5.1,1011,73,108,41,N/A,14.4
+2025-03-05 20:00:00,8688,"United Nations International School of Hanoi, Vietnam (Trường Quốc tế Liên Hợp Quốc Hà Nội)",https://aqicn.org/city/vietnam/hanoi/unis,21.0811211,105.8180306,160,N/A,23.5,5.1,1012,81,160,N/A,N/A,N/A
+2025-03-05 21:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.01525,105.80013,79,0.1,22,5.1,1012,73,79,N/A,3.8,39.5
+2025-03-05 22:00:00,1583,"Hanoi, Vietnam (Hà Nội)",https://aqicn.org/city/vietnam/hanoi,21.0491,105.8831,120,8,22,4.6,1013,73,120,69,3,1
+2025-03-05 21:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.0215063,105.8188748,79,0.1,22,5.1,1012,73,79,N/A,3.8,39.5
+2025-03-05 21:00:00,13427,"Hà Nội/TT giao lưu văn hóa phố cổ - Hoàn Kiếm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/tt-giao-luu-van-hoa-pho-co-hoan-kiem,21.035584,105.852771,91,0.1,22,5.1,1012,73,91,41,N/A,31
+2025-03-05 21:00:00,13251,"Hà Nội/UBND P. Minh Khai, Bắc Từ Liêm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-p.-minh-khai--bac-tu-liem,21.04975,105.74187,103,0.1,22,5.1,1012,73,N/A,103,1.6,N/A
+2025-03-05 21:00:00,13422,"Hà Nội/Mầm non Vân Hà – Đông Anh, Vietnam",https://aqicn.org/city/vietnam/ha-noi/mam-non-van-ha---dong-anh,21.148273,105.913306,158,0.1,22,5.1,1012,73,158,66,N/A,7
+2025-03-05 21:00:00,13439,"Hà Nội/UBND xã An Khánh - Hoài Đức, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-xa-an-khanh-hoai-duc,21.002383,105.718038,102,0.1,22,5.1,1012,73,102,38,N/A,13
+2025-03-05 22:00:00,8688,"United Nations International School of Hanoi, Vietnam (Trường Quốc tế Liên Hợp Quốc Hà Nội)",https://aqicn.org/city/vietnam/hanoi/unis,21.0811211,105.8180306,173,N/A,20,4.3,1013,85,173,N/A,N/A,N/A
+2025-03-05 22:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.01525,105.80013,73,0.1,22,4.6,1013,73,73,N/A,2.8,40
+2025-03-05 23:00:00,1583,"Hanoi, Vietnam (Hà Nội)",https://aqicn.org/city/vietnam/hanoi,21.0491,105.8831,139,5,21.5,4.3,1013,75,139,74,4,2
+2025-03-05 22:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.0215063,105.8188748,73,0.1,22,4.6,1013,73,73,N/A,2.8,40
+2025-03-05 22:00:00,13427,"Hà Nội/TT giao lưu văn hóa phố cổ - Hoàn Kiếm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/tt-giao-luu-van-hoa-pho-co-hoan-kiem,21.035584,105.852771,124,0.1,22,4.6,1013,73,124,58,N/A,31.7
+2025-03-05 22:00:00,13251,"Hà Nội/UBND P. Minh Khai, Bắc Từ Liêm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-p.-minh-khai--bac-tu-liem,21.04975,105.74187,98,0.1,22,4.6,1013,73,N/A,98,5.2,N/A
+2025-03-05 22:00:00,13422,"Hà Nội/Mầm non Vân Hà – Đông Anh, Vietnam",https://aqicn.org/city/vietnam/ha-noi/mam-non-van-ha---dong-anh,21.148273,105.913306,152,0.1,22,4.6,1013,73,152,60,N/A,7
+2025-03-05 22:00:00,13439,"Hà Nội/UBND xã An Khánh - Hoài Đức, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-xa-an-khanh-hoai-duc,21.002383,105.718038,130,0.1,22,4.6,1013,73,130,52,N/A,14
+2025-03-05 23:00:00,8688,"United Nations International School of Hanoi, Vietnam (Trường Quốc tế Liên Hợp Quốc Hà Nội)",https://aqicn.org/city/vietnam/hanoi/unis,21.0811211,105.8180306,170,N/A,20,6.1,1013,85,170,N/A,N/A,N/A
+2025-03-05 23:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.01525,105.80013,93,0.1,21,6.1,1013,73,93,N/A,3.5,39.3
+2025-03-06 00:00:00,1583,"Hanoi, Vietnam (Hà Nội)",https://aqicn.org/city/vietnam/hanoi,21.0491,105.8831,147,3,21,6.1,1013,73,147,74,6,2
+2025-03-05 23:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.0215063,105.8188748,93,0.1,21,6.1,1013,73,93,N/A,3.5,39.3
+2025-03-05 23:00:00,13427,"Hà Nội/TT giao lưu văn hóa phố cổ - Hoàn Kiếm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/tt-giao-luu-van-hoa-pho-co-hoan-kiem,21.035584,105.852771,140,0.1,21,6.1,1013,73,140,64,N/A,25.8
+2025-03-05 23:00:00,13251,"Hà Nội/UBND P. Minh Khai, Bắc Từ Liêm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-p.-minh-khai--bac-tu-liem,21.04975,105.74187,92,0.1,21,6.1,1013,73,N/A,92,4,N/A
+2025-03-05 23:00:00,13422,"Hà Nội/Mầm non Vân Hà – Đông Anh, Vietnam",https://aqicn.org/city/vietnam/ha-noi/mam-non-van-ha---dong-anh,21.148273,105.913306,146,0.1,21,6.1,1013,73,146,57,N/A,4.1
+2025-03-05 23:00:00,13439,"Hà Nội/UBND xã An Khánh - Hoài Đức, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-xa-an-khanh-hoai-duc,21.002383,105.718038,160,0.1,21,6.1,1013,73,160,68,N/A,15.7
+2025-03-06 00:00:00,8688,"United Nations International School of Hanoi, Vietnam (Trường Quốc tế Liên Hợp Quốc Hà Nội)",https://aqicn.org/city/vietnam/hanoi/unis,21.0811211,105.8180306,169,N/A,19,6.4,1014,85,169,N/A,N/A,N/A
+2025-03-06 00:00:00,13427,"Hà Nội/TT giao lưu văn hóa phố cổ - Hoàn Kiếm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/tt-giao-luu-van-hoa-pho-co-hoan-kiem,21.01525,105.80013,114,0.1,20,6.1,1014,77,114,53,N/A,16.4
+2025-03-06 01:00:00,1583,"Hanoi, Vietnam (Hà Nội)",https://aqicn.org/city/vietnam/hanoi,21.0491,105.8831,149,3,20,6.4,1014,74.5,149,72,6,1
+2025-03-06 00:00:00,13427,"Hà Nội/TT giao lưu văn hóa phố cổ - Hoàn Kiếm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/tt-giao-luu-van-hoa-pho-co-hoan-kiem,21.0215063,105.8188748,114,0.1,20,6.1,1014,77,114,53,N/A,16.4
+2025-03-06 00:00:00,13427,"Hà Nội/TT giao lưu văn hóa phố cổ - Hoàn Kiếm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/tt-giao-luu-van-hoa-pho-co-hoan-kiem,21.035584,105.852771,114,0.1,20,6.1,1014,77,114,53,N/A,16.4
+2025-03-06 00:00:00,13439,"Hà Nội/UBND xã An Khánh - Hoài Đức, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-xa-an-khanh-hoai-duc,21.04975,105.74187,149,0.1,20,6.1,1014,77,149,59,N/A,11.3
+2025-03-06 00:00:00,13422,"Hà Nội/Mầm non Vân Hà – Đông Anh, Vietnam",https://aqicn.org/city/vietnam/ha-noi/mam-non-van-ha---dong-anh,21.148273,105.913306,138,0.1,20,6.1,1014,77,138,55,N/A,4
+2025-03-06 00:00:00,13439,"Hà Nội/UBND xã An Khánh - Hoài Đức, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-xa-an-khanh-hoai-duc,21.002383,105.718038,149,0.1,20,6.1,1014,77,149,59,N/A,11.3
+2025-03-06 01:00:00,8688,"United Nations International School of Hanoi, Vietnam (Trường Quốc tế Liên Hợp Quốc Hà Nội)",https://aqicn.org/city/vietnam/hanoi/unis,21.0811211,105.8180306,166,N/A,18,6.4,1014,88,166,N/A,N/A,N/A
+2025-03-06 01:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.01525,105.80013,127,0.1,20,6.4,1014,74.5,127,N/A,1.4,38.4
+2025-03-06 02:00:00,1583,"Hanoi, Vietnam (Hà Nội)",https://aqicn.org/city/vietnam/hanoi,21.0491,105.8831,145,3,20,6.4,1014,74.5,145,69,6,2
+2025-03-06 01:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.0215063,105.8188748,127,0.1,20,6.4,1014,74.5,127,N/A,1.4,38.4
+2025-03-06 01:00:00,13427,"Hà Nội/TT giao lưu văn hóa phố cổ - Hoàn Kiếm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/tt-giao-luu-van-hoa-pho-co-hoan-kiem,21.035584,105.852771,108,0.1,20,6.4,1014,74.5,108,51,N/A,16.3
+2025-03-06 01:00:00,13439,"Hà Nội/UBND xã An Khánh - Hoài Đức, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-xa-an-khanh-hoai-duc,21.04975,105.74187,134,0.1,20,6.4,1014,74.5,134,54,N/A,9.9
+2025-03-06 01:00:00,13422,"Hà Nội/Mầm non Vân Hà – Đông Anh, Vietnam",https://aqicn.org/city/vietnam/ha-noi/mam-non-van-ha---dong-anh,21.148273,105.913306,123,0.1,20,6.4,1014,74.5,123,49,N/A,3.6
+2025-03-06 01:00:00,13439,"Hà Nội/UBND xã An Khánh - Hoài Đức, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-xa-an-khanh-hoai-duc,21.002383,105.718038,134,0.1,20,6.4,1014,74.5,134,54,N/A,9.9
+2025-03-06 02:00:00,8688,"United Nations International School of Hanoi, Vietnam (Trường Quốc tế Liên Hợp Quốc Hà Nội)",https://aqicn.org/city/vietnam/hanoi/unis,21.0811211,105.8180306,158,N/A,17,6.1,1014,90,158,N/A,N/A,N/A
+2025-03-06 02:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.01525,105.80013,121,0.1,20,6.4,1014,74.5,121,N/A,2.1,38.5
+2025-03-06 03:00:00,1583,"Hanoi, Vietnam (Hà Nội)",https://aqicn.org/city/vietnam/hanoi,21.0491,105.8831,131,3,18,6.6,1014,77,131,64,5,2
+2025-03-06 02:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.0215063,105.8188748,121,0.1,20,6.4,1014,74.5,121,N/A,2.1,38.5
+2025-03-06 03:00:00,1583,"Hanoi, Vietnam (Hà Nội)",https://aqicn.org/city/vietnam/hanoi,21.035584,105.852771,131,3,18,6.6,1014,77,131,64,5,2
+2025-03-06 02:00:00,13439,"Hà Nội/UBND xã An Khánh - Hoài Đức, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-xa-an-khanh-hoai-duc,21.04975,105.74187,119,0.1,18,6.1,1014,77,119,47,N/A,9.4
+2025-03-06 02:00:00,13422,"Hà Nội/Mầm non Vân Hà – Đông Anh, Vietnam",https://aqicn.org/city/vietnam/ha-noi/mam-non-van-ha---dong-anh,21.148273,105.913306,107,0.1,18,6.1,1014,77,107,39,N/A,3.3
+2025-03-06 02:00:00,13439,"Hà Nội/UBND xã An Khánh - Hoài Đức, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-xa-an-khanh-hoai-duc,21.002383,105.718038,119,0.1,18,6.1,1014,77,119,47,N/A,9.4
+2025-03-06 02:00:00,8688,"United Nations International School of Hanoi, Vietnam (Trường Quốc tế Liên Hợp Quốc Hà Nội)",https://aqicn.org/city/vietnam/hanoi/unis,21.0811211,105.8180306,158,N/A,17,6.6,1015,90.5,158,N/A,N/A,N/A
+2025-03-06 03:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.01525,105.80013,121,0.1,18,6.6,1015,72,121,N/A,2,37.5
+2025-03-06 04:00:00,1583,"Hanoi, Vietnam (Hà Nội)",https://aqicn.org/city/vietnam/hanoi,21.0491,105.8831,106,2,18,6.6,1015,72,106,55,6,2
+2025-03-06 03:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.0215063,105.8188748,121,0.1,18,6.6,1015,72,121,N/A,2,37.5
+2025-03-06 04:00:00,1583,"Hanoi, Vietnam (Hà Nội)",https://aqicn.org/city/vietnam/hanoi,21.035584,105.852771,106,2,18,6.6,1015,72,106,55,6,2
+2025-03-06 03:00:00,13439,"Hà Nội/UBND xã An Khánh - Hoài Đức, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-xa-an-khanh-hoai-duc,21.04975,105.74187,97,0.1,18,6.6,1015,72,97,35,N/A,9.1
+2025-03-06 04:00:00,1583,"Hanoi, Vietnam (Hà Nội)",https://aqicn.org/city/vietnam/hanoi,21.148273,105.913306,106,2,18,6.6,1015,72,106,55,6,2
+2025-03-06 03:00:00,13439,"Hà Nội/UBND xã An Khánh - Hoài Đức, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-xa-an-khanh-hoai-duc,21.002383,105.718038,97,0.1,18,6.6,1015,72,97,35,N/A,9.1
+2025-03-06 04:00:00,8688,"United Nations International School of Hanoi, Vietnam (Trường Quốc tế Liên Hợp Quốc Hà Nội)",https://aqicn.org/city/vietnam/hanoi/unis,21.0811211,105.8180306,114,N/A,16,5.9,1015.5,88,114,N/A,N/A,N/A
+2025-03-06 04:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.01525,105.80013,109,0.1,17,6.1,1015,77,109,N/A,2.7,38
+2025-03-06 05:00:00,1583,"Hanoi, Vietnam (Hà Nội)",https://aqicn.org/city/vietnam/hanoi,21.0491,105.8831,73,3,17,5.9,1015.5,77,73,46,5,2
+2025-03-06 04:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.0215063,105.8188748,109,0.1,17,6.1,1015,77,109,N/A,2.7,38
+2025-03-06 04:00:00,13427,"Hà Nội/TT giao lưu văn hóa phố cổ - Hoàn Kiếm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/tt-giao-luu-van-hoa-pho-co-hoan-kiem,21.035584,105.852771,55,0.1,17,6.1,1015,77,55,22,N/A,14.5
+2025-03-06 04:00:00,13439,"Hà Nội/UBND xã An Khánh - Hoài Đức, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-xa-an-khanh-hoai-duc,21.04975,105.74187,79,0.1,17,6.1,1015,77,79,28,N/A,8.7
+2025-03-06 04:00:00,13422,"Hà Nội/Mầm non Vân Hà – Đông Anh, Vietnam",https://aqicn.org/city/vietnam/ha-noi/mam-non-van-ha---dong-anh,21.148273,105.913306,59,0.1,17,5.9,1015.5,77,59,20,N/A,3.2
+2025-03-06 04:00:00,13439,"Hà Nội/UBND xã An Khánh - Hoài Đức, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-xa-an-khanh-hoai-duc,21.002383,105.718038,79,0.1,17,6.1,1015,77,79,28,N/A,8.7
+2025-03-06 05:00:00,8688,"United Nations International School of Hanoi, Vietnam (Trường Quốc tế Liên Hợp Quốc Hà Nội)",https://aqicn.org/city/vietnam/hanoi/unis,21.0811211,105.8180306,103,N/A,16,7.7,1017,87,103,N/A,N/A,N/A
+2025-03-06 05:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.01525,105.80013,98,0.1,17,5.9,1015.5,77,98,N/A,1.2,36.7
+2025-03-06 06:00:00,1583,"Hanoi, Vietnam (Hà Nội)",https://aqicn.org/city/vietnam/hanoi,21.0491,105.8831,41,3,17,7.7,1017,72,41,32,3,2
+2025-03-06 05:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.0215063,105.8188748,98,0.1,17,5.9,1015.5,77,98,N/A,1.2,36.7
+2025-03-06 05:00:00,13427,"Hà Nội/TT giao lưu văn hóa phố cổ - Hoàn Kiếm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/tt-giao-luu-van-hoa-pho-co-hoan-kiem,21.035584,105.852771,37,0.1,17,5.9,1015.5,77,37,14,N/A,13.7
+2025-03-06 05:00:00,13251,"Hà Nội/UBND P. Minh Khai, Bắc Từ Liêm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-p.-minh-khai--bac-tu-liem,21.04975,105.74187,54,0.1,17,5.9,1015.5,77,N/A,54,3.9,N/A
+2025-03-06 05:00:00,13422,"Hà Nội/Mầm non Vân Hà – Đông Anh, Vietnam",https://aqicn.org/city/vietnam/ha-noi/mam-non-van-ha---dong-anh,21.148273,105.913306,51,0.1,17,5.9,1015.5,77,51,17,N/A,3.2
+2025-03-06 05:00:00,13439,"Hà Nội/UBND xã An Khánh - Hoài Đức, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-xa-an-khanh-hoai-duc,21.002383,105.718038,57,0.1,17,5.9,1015.5,77,57,19,N/A,8.1
+2025-03-06 07:00:00,8688,"United Nations International School of Hanoi, Vietnam (Trường Quốc tế Liên Hợp Quốc Hà Nội)",https://aqicn.org/city/vietnam/hanoi/unis,21.0811211,105.8180306,74,N/A,16,6.1,1019,85,74,N/A,N/A,N/A
+2025-03-06 07:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.01525,105.80013,64,0.1,17,6.1,1019,72,64,N/A,1,36.7
+2025-03-06 06:00:00,1583,"Hanoi, Vietnam (Hà Nội)",https://aqicn.org/city/vietnam/hanoi,21.0491,105.8831,41,4,17,7.4,1017.5,72,41,24,3,1
+2025-03-06 07:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.0215063,105.8188748,64,0.1,17,6.1,1019,72,64,N/A,1,36.7
+2025-03-06 07:00:00,13427,"Hà Nội/TT giao lưu văn hóa phố cổ - Hoàn Kiếm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/tt-giao-luu-van-hoa-pho-co-hoan-kiem,21.035584,105.852771,28,0.1,17,6.1,1019,72,28,10,N/A,14.8
+2025-03-06 07:00:00,13251,"Hà Nội/UBND P. Minh Khai, Bắc Từ Liêm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-p.-minh-khai--bac-tu-liem,21.04975,105.74187,36,0.1,17,6.1,1019,72,N/A,36,3.3,N/A
+2025-03-06 07:00:00,13422,"Hà Nội/Mầm non Vân Hà – Đông Anh, Vietnam",https://aqicn.org/city/vietnam/ha-noi/mam-non-van-ha---dong-anh,21.148273,105.913306,32,0.1,17,6.1,1019,72,32,11,N/A,1.6
+2025-03-06 07:00:00,13439,"Hà Nội/UBND xã An Khánh - Hoài Đức, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-xa-an-khanh-hoai-duc,21.002383,105.718038,32,0.1,17,6.1,1019,72,32,11,N/A,7
+2025-03-06 08:00:00,8688,"United Nations International School of Hanoi, Vietnam (Trường Quốc tế Liên Hợp Quốc Hà Nội)",https://aqicn.org/city/vietnam/hanoi/unis,21.0811211,105.8180306,79,N/A,16,4.1,1020,82,79,N/A,N/A,N/A
+2025-03-06 08:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.01525,105.80013,52,0.1,17,4.1,1020,67,52,N/A,1.9,37.7
+2025-03-06 09:00:00,1583,"Hanoi, Vietnam (Hà Nội)",https://aqicn.org/city/vietnam/hanoi,21.0491,105.8831,22,5,17,4.8,1020,65,11,22,3,1
+2025-03-06 08:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.0215063,105.8188748,52,0.1,17,4.1,1020,67,52,N/A,1.9,37.7
+2025-03-06 08:00:00,13427,"Hà Nội/TT giao lưu văn hóa phố cổ - Hoàn Kiếm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/tt-giao-luu-van-hoa-pho-co-hoan-kiem,21.035584,105.852771,29,0.1,17,4.1,1020,67,29,11,N/A,19
+2025-03-06 09:00:00,13251,"Hà Nội/UBND P. Minh Khai, Bắc Từ Liêm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-p.-minh-khai--bac-tu-liem,21.04975,105.74187,33,0.1,17,5.1,1021,63,N/A,33,3.2,N/A
+2025-03-06 08:00:00,13422,"Hà Nội/Mầm non Vân Hà – Đông Anh, Vietnam",https://aqicn.org/city/vietnam/ha-noi/mam-non-van-ha---dong-anh,21.148273,105.913306,30,0.1,17,4.1,1020,67,30,10,N/A,3.7
+2025-03-06 08:00:00,13439,"Hà Nội/UBND xã An Khánh - Hoài Đức, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-xa-an-khanh-hoai-duc,21.002383,105.718038,32,0.1,17,4.1,1020,67,32,11,N/A,6.5
+2025-03-06 09:00:00,8688,"United Nations International School of Hanoi, Vietnam (Trường Quốc tế Liên Hợp Quốc Hà Nội)",https://aqicn.org/city/vietnam/hanoi/unis,21.0811211,105.8180306,90,N/A,17,5.1,1022,77,90,N/A,N/A,N/A
+2025-03-06 08:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.01525,105.80013,52,0.1,17,4.1,1020,67,52,N/A,1.9,37.7
+2025-03-06 10:00:00,1583,"Hanoi, Vietnam (Hà Nội)",https://aqicn.org/city/vietnam/hanoi,21.0491,105.8831,23,5,17.5,5.4,1021,59,19,23,3,2
+2025-03-06 08:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.0215063,105.8188748,52,0.1,17,4.1,1020,67,52,N/A,1.9,37.7
+2025-03-06 09:00:00,13427,"Hà Nội/TT giao lưu văn hóa phố cổ - Hoàn Kiếm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/tt-giao-luu-van-hoa-pho-co-hoan-kiem,21.035584,105.852771,31,0.1,17.5,5.4,1021,59,31,12,N/A,21.7
+2025-03-06 10:00:00,13251,"Hà Nội/UBND P. Minh Khai, Bắc Từ Liêm, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-p.-minh-khai--bac-tu-liem,21.04975,105.74187,31,0.1,18,5.1,1022,55,N/A,31,4.9,N/A
+2025-03-06 09:00:00,13422,"Hà Nội/Mầm non Vân Hà – Đông Anh, Vietnam",https://aqicn.org/city/vietnam/ha-noi/mam-non-van-ha---dong-anh,21.148273,105.913306,31,0.1,17,5.1,1021,63,31,10,N/A,4.3
+2025-03-06 09:00:00,13439,"Hà Nội/UBND xã An Khánh - Hoài Đức, Vietnam",https://aqicn.org/city/vietnam/ha-noi/ubnd-xa-an-khanh-hoai-duc,21.002383,105.718038,36,0.1,17.5,5.4,1021,59,36,13,N/A,6.9
