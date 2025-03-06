@@ -12,6 +12,7 @@ BASE_URL = "https://api.waqi.info/feed/geo:{lat};{lon}/?token=" + API_KEY
 CITIES = [
     {
         "name": "ha-noi",
+        "display_name": "Hà Nội",
         "station_locations": [
             (21.0811211, 105.8180306),
             (21.01525, 105.80013),
@@ -25,18 +26,21 @@ CITIES = [
     },
     {
         "name": "ho-chi-minh",
+        "display_name": "TP. Hồ Chí Minh",
         "station_locations": [
             (10.65961, 106.727916)
         ]
     },
     {
         "name": "hue",
+        "display_name": "Huế",
         "station_locations": [
             (16.46226, 107.596351)
         ]
     },
     {
         "name": "da-nang",
+        "display_name": "Đà Nẵng",
         "station_locations": [
             (16.043252, 108.206826),
             (16.074, 108.217)
@@ -44,18 +48,21 @@ CITIES = [
     },
     {
         "name": "can-tho",
+        "display_name": "Cần Thơ",
         "station_locations": [
             (10.026977, 105.768249)
         ]
     },
     {
         "name": "vung-tau",
+        "display_name": "Vũng Tàu",
         "station_locations": [
             (10.589853, 107.131743)
         ]
     },
     {
         "name": "cao-bang",
+        "display_name": "Cao Bằng",
         "station_locations": [
             (22.67953, 106.215361),
             (22.6782, 106.245)
@@ -63,6 +70,7 @@ CITIES = [
     },
     {
         "name": "nha-trang",
+        "display_name": "Nha Trang",
         "station_locations": [
             (12.284358, 109.192524)
         ]
@@ -73,7 +81,7 @@ def get_vietnam_time():
     """Get current time in Vietnam timezone (GMT+7)"""
     return datetime.now(ZoneInfo("Asia/Bangkok"))  # Bangkok uses GMT+7 like Vietnam
 
-def get_air_quality(lat, lon):
+def get_air_quality(lat, lon, city_name):
     """Lấy thông tin chất lượng không khí từ API"""
     url = BASE_URL.format(lat=lat, lon=lon)
     try:
@@ -85,7 +93,8 @@ def get_air_quality(lat, lon):
                 return {
                     "timestamp": data["data"]["time"]["s"],
                     "station_id": data["data"]["idx"],
-                    "city_name": data["data"]["city"]["name"],
+                    "station_name": data["data"]["city"]["name"],
+                    "city_name": city_name,
                     "url": data["data"]["city"]["url"],
                     "latitude": lat,
                     "longitude": lon,
@@ -138,12 +147,13 @@ def crawl_all_cities():
     
     for city in CITIES:
         city_name = city["name"]
+        display_name = city["display_name"]
         stations = city["station_locations"]
         
         # Lấy dữ liệu từ tất cả các trạm của thành phố
         city_results = []
         for lat, lon in stations:
-            result = get_air_quality(lat, lon)
+            result = get_air_quality(lat, lon, display_name)
             city_results.append(result)
         
         # Lưu dữ liệu của từng thành phố vào CSV
