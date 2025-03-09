@@ -147,3 +147,5 @@ timestamp,station_id,station_name,city_name,url,latitude,longitude,aqi,co,temper
 2025-03-09 11:00:00,1584,"Da Nang, Vietnam (TP Đà Nẵng)",Đà Nẵng,https://aqicn.org/city/vietnam/da-nang,16.074,108.217,13,3,22.5,1.8,1019,83,13,10,N/A,20
 2025-03-09 11:00:00,13658,"Đà Nẵng/Hòa Thuận Tây, Hải Châu - KTTV - Trạm cảm biến, Vietnam",Đà Nẵng,https://aqicn.org/city/vietnam/da-nang/hoa-thuan-tay--hai-chau-kttv-tram-cam-bien,16.043252,108.206826,51,N/A,23,3,1019,78,36,51,N/A,N/A
 2025-03-09 12:00:00,1584,"Da Nang, Vietnam (TP Đà Nẵng)",Đà Nẵng,https://aqicn.org/city/vietnam/da-nang,16.074,108.217,14,4,24,3.6,1018,78,14,10,N/A,19
+2025-03-09 12:00:00,13658,"Đà Nẵng/Hòa Thuận Tây, Hải Châu - KTTV - Trạm cảm biến, Vietnam",Đà Nẵng,https://aqicn.org/city/vietnam/da-nang/hoa-thuan-tay--hai-chau-kttv-tram-cam-bien,16.043252,108.206826,44,N/A,24,3.6,1018,78,33,44,N/A,N/A
+2025-03-09 13:00:00,1584,"Da Nang, Vietnam (TP Đà Nẵng)",Đà Nẵng,https://aqicn.org/city/vietnam/da-nang,16.074,108.217,15,4,24,3.6,1018,78,15,11,N/A,20
