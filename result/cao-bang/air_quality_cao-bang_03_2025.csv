@@ -207,3 +207,5 @@ timestamp,station_id,station_name,city_name,url,latitude,longitude,aqi,co,temper
 2025-03-10 17:00:00,13252,"Cao Bằng/Trạm khí TTQT, Vietnam",Cao Bằng,https://aqicn.org/city/vietnam/cao-bang/tram-khi-ttqt,22.6782,106.245,50,N/A,18.5,1,990.9,84.8,50,43,2,17
 2025-03-10 18:00:00,13688,"Cao Bằng/Phường Đề Thám , TP. Cao Bằng, Vietnam",Cao Bằng,https://aqicn.org/city/vietnam/cao-bang/phuong-de-tham---tp.-cao-bang,22.67953,106.215361,13,6,18.5,1,990.9,84.8,13,9,11,11
 2025-03-10 17:00:00,13252,"Cao Bằng/Trạm khí TTQT, Vietnam",Cao Bằng,https://aqicn.org/city/vietnam/cao-bang/tram-khi-ttqt,22.6782,106.245,50,N/A,18.5,1,990.9,84.8,50,43,2,17
+2025-03-10 19:00:00,13688,"Cao Bằng/Phường Đề Thám , TP. Cao Bằng, Vietnam",Cao Bằng,https://aqicn.org/city/vietnam/cao-bang/phuong-de-tham---tp.-cao-bang,22.67953,106.215361,13,6,18.5,1,990.9,84.8,13,8,12,10
+2025-03-10 19:00:00,13252,"Cao Bằng/Trạm khí TTQT, Vietnam",Cao Bằng,https://aqicn.org/city/vietnam/cao-bang/tram-khi-ttqt,22.6782,106.245,50,N/A,18.5,1,990.9,84.8,50,47,2,16
