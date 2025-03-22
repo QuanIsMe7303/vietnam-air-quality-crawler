@@ -781,3 +781,5 @@ timestamp,station_id,station_name,city_name,url,latitude,longitude,aqi,co,temper
 2025-03-23 03:00:00,13688,"Cao Bằng/Phường Đề Thám , TP. Cao Bằng, Vietnam",Cao Bằng,https://aqicn.org/city/vietnam/cao-bang/phuong-de-tham---tp.-cao-bang,22.6782,106.245,22,5,15.4,1,989.6,79.6,22,13,7,13
 2025-03-23 04:00:00,13688,"Cao Bằng/Phường Đề Thám , TP. Cao Bằng, Vietnam",Cao Bằng,https://aqicn.org/city/vietnam/cao-bang/phuong-de-tham---tp.-cao-bang,22.67953,106.215361,22,5,15.4,1,989.6,79.6,22,13,6,12
 2025-03-23 04:00:00,13688,"Cao Bằng/Phường Đề Thám , TP. Cao Bằng, Vietnam",Cao Bằng,https://aqicn.org/city/vietnam/cao-bang/phuong-de-tham---tp.-cao-bang,22.6782,106.245,22,5,15.4,1,989.6,79.6,22,13,6,12
+2025-03-23 06:00:00,13688,"Cao Bằng/Phường Đề Thám , TP. Cao Bằng, Vietnam",Cao Bằng,https://aqicn.org/city/vietnam/cao-bang/phuong-de-tham---tp.-cao-bang,22.67953,106.215361,22,6,14.3,1,989.2,87.2,22,13,3,12
+2025-03-23 06:00:00,13688,"Cao Bằng/Phường Đề Thám , TP. Cao Bằng, Vietnam",Cao Bằng,https://aqicn.org/city/vietnam/cao-bang/phuong-de-tham---tp.-cao-bang,22.6782,106.245,22,6,14.3,1,989.2,87.2,22,13,3,12
