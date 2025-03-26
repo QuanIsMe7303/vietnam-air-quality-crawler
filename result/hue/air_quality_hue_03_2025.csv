@@ -474,3 +474,4 @@ timestamp,station_id,station_name,city_name,url,latitude,longitude,aqi,co,temper
 2025-03-26 18:00:00,12488,"Thừa Thiên Huế/83 Hùng Vương, Vietnam",Huế,https://aqicn.org/city/vietnam/thua-thien-hue/83-hung-vuong,16.46226,107.596351,39,11,26,0.7,1003,83,39,28,14,6
 2025-03-26 19:00:00,12488,"Thừa Thiên Huế/83 Hùng Vương, Vietnam",Huế,https://aqicn.org/city/vietnam/thua-thien-hue/83-hung-vuong,16.46226,107.596351,40,11,25,1.2,1003.5,88,40,28,12,6
 2025-03-26 20:00:00,12488,"Thừa Thiên Huế/83 Hùng Vương, Vietnam",Huế,https://aqicn.org/city/vietnam/thua-thien-hue/83-hung-vuong,16.46226,107.596351,42,10,24,1,1004,94,42,29,8,6
+2025-03-26 21:00:00,12488,"Thừa Thiên Huế/83 Hùng Vương, Vietnam",Huế,https://aqicn.org/city/vietnam/thua-thien-hue/83-hung-vuong,16.46226,107.596351,44,9,24,0.7,1004,94,44,30,6,6
