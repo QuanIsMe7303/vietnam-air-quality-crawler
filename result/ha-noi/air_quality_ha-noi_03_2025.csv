@@ -4527,3 +4527,11 @@ timestamp,station_id,station_name,city_name,url,latitude,longitude,aqi,co,temper
 2025-03-30 20:00:00,13251,"Hà Nội/UBND P. Minh Khai, Bắc Từ Liêm, Vietnam",Hà Nội,https://aqicn.org/city/vietnam/ha-noi/ubnd-p.-minh-khai--bac-tu-liem,21.04975,105.74187,49,0.1,16,3,1020,63,49,34,3,N/A
 2025-03-30 19:00:00,13422,"Hà Nội/Mầm non Vân Hà – Đông Anh, Vietnam",Hà Nội,https://aqicn.org/city/vietnam/ha-noi/mam-non-van-ha---dong-anh,21.148273,105.913306,64,0.1,16,2.5,1019.5,63,64,24,N/A,4
 2025-03-30 19:00:00,13439,"Hà Nội/UBND xã An Khánh - Hoài Đức, Vietnam",Hà Nội,https://aqicn.org/city/vietnam/ha-noi/ubnd-xa-an-khanh-hoai-duc,21.002383,105.718038,88,0.1,16,2.5,1019.5,63,88,33,N/A,9.1
+2025-03-30 20:00:00,8688,"United Nations International School of Hanoi, Vietnam (Trường Quốc tế Liên Hợp Quốc Hà Nội)",Hà Nội,https://aqicn.org/city/vietnam/hanoi/unis,21.0811211,105.8180306,102,N/A,16,3,1020,69,102,N/A,N/A,N/A
+2025-03-30 20:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",Hà Nội,https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.01525,105.80013,49,N/A,16,3,1020,63,49,N/A,1.1,38.5
+2025-03-30 20:00:00,1583,"Hanoi, Vietnam (Hà Nội)",Hà Nội,https://aqicn.org/city/vietnam/hanoi,21.0491,105.8831,59,6,16,2.5,1019.5,63,59,41,4,9
+2025-03-30 20:00:00,13026,"Hà Nội/Chi cục BVMT, Vietnam",Hà Nội,https://aqicn.org/city/vietnam/ha-noi/chi-cuc-bvmt,21.0215063,105.8188748,49,N/A,16,3,1020,63,49,N/A,1.1,38.5
+2025-03-30 20:00:00,13427,"Hà Nội/TT giao lưu văn hóa phố cổ - Hoàn Kiếm, Vietnam",Hà Nội,https://aqicn.org/city/vietnam/ha-noi/tt-giao-luu-van-hoa-pho-co-hoan-kiem,21.035584,105.852771,48,0.1,16,3,1020,63,48,18,N/A,26.8
+2025-03-30 20:00:00,13251,"Hà Nội/UBND P. Minh Khai, Bắc Từ Liêm, Vietnam",Hà Nội,https://aqicn.org/city/vietnam/ha-noi/ubnd-p.-minh-khai--bac-tu-liem,21.04975,105.74187,49,0.1,16,3,1020,63,49,34,3,N/A
+2025-03-30 20:00:00,13422,"Hà Nội/Mầm non Vân Hà – Đông Anh, Vietnam",Hà Nội,https://aqicn.org/city/vietnam/ha-noi/mam-non-van-ha---dong-anh,21.148273,105.913306,64,0.1,16,3,1020,63,64,23,N/A,4.4
+2025-03-30 20:00:00,13439,"Hà Nội/UBND xã An Khánh - Hoài Đức, Vietnam",Hà Nội,https://aqicn.org/city/vietnam/ha-noi/ubnd-xa-an-khanh-hoai-duc,21.002383,105.718038,59,0.1,16,3,1020,63,59,22,N/A,10
