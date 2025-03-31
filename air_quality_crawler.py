@@ -74,6 +74,21 @@ CITIES = [
         "station_locations": [
             (12.284358, 109.192524)
         ]
+    },
+    {
+        "name": "quang-ninh",
+        "display_name": "Quảng Ninh",
+        "station_locations": [
+            (20.9416, 107.1158),
+            (21.1232473, 106.2883295)
+        ]
+    },
+    {
+        "name": "son-la",
+        "display_name": "Sơn La",
+        "station_locations": [
+            (22.3221386, 104.1214227)
+        ]
     }
 ]
 
