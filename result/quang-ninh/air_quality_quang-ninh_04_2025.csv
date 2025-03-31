@@ -1,0 +1,3 @@
+timestamp,station_id,station_name,city_name,url,latitude,longitude,aqi,co,temperature,wind,atmospheric_pressure,humidity,pm25,pm10,o3,no2
+2025-03-31 23:00:00,11778,"Quảng Ninh/UBND TP Uông Bí, Vietnam",Quảng Ninh,https://aqicn.org/city/vietnam/quang-ninh/ubnd-tp-uong-bi,20.9416,107.1158,12,N/A,15.8,1,1007.3,77.6,5,12,10,1
+2025-03-31 23:00:00,13445,"Quảng Ninh/Nhuệ Hổ - Đông Triều, Vietnam",Quảng Ninh,https://aqicn.org/city/vietnam/quang-ninh/nhue-ho-dong-trieu,21.1232473,106.2883295,11,N/A,17,2.5,1021,61,11,9,11,2

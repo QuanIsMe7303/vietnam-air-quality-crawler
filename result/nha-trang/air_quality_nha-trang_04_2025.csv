@@ -1,0 +1,2 @@
+timestamp,station_id,station_name,city_name,url,latitude,longitude,aqi,co,temperature,wind,atmospheric_pressure,humidity,pm25,pm10,o3,no2
+2025-03-31 22:00:00,1585,"Nha Trang, Vietnam",Nha Trang,https://aqicn.org/city/vietnam/nha-trang,12.284358,109.192524,3,2,24.5,4.8,1013,85.5,3,2,14,2
