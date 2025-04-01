@@ -13,3 +13,5 @@ timestamp,station_id,station_name,city_name,url,latitude,longitude,aqi,co,temper
 2025-04-01 04:00:00,13445,"Quảng Ninh/Nhuệ Hổ - Đông Triều, Vietnam",Quảng Ninh,https://aqicn.org/city/vietnam/quang-ninh/nhue-ho-dong-trieu,21.1232473,106.2883295,26,N/A,16,2,1021,67,26,21,11,2
 2025-04-01 05:00:00,11778,"Quảng Ninh/UBND TP Uông Bí, Vietnam",Quảng Ninh,https://aqicn.org/city/vietnam/quang-ninh/ubnd-tp-uong-bi,20.9416,107.1158,11,N/A,14.7,2,1006.1,66.4,6,11,11,1
 2025-04-01 05:00:00,13445,"Quảng Ninh/Nhuệ Hổ - Đông Triều, Vietnam",Quảng Ninh,https://aqicn.org/city/vietnam/quang-ninh/nhue-ho-dong-trieu,21.1232473,106.2883295,20,N/A,16,2.5,1021,67,20,15,11,2
+2025-04-01 07:00:00,11778,"Quảng Ninh/UBND TP Uông Bí, Vietnam",Quảng Ninh,https://aqicn.org/city/vietnam/quang-ninh/ubnd-tp-uong-bi,20.9416,107.1158,12,N/A,14.7,2,1006.1,66.4,8,12,10,4
+2025-04-01 07:00:00,13445,"Quảng Ninh/Nhuệ Hổ - Đông Triều, Vietnam",Quảng Ninh,https://aqicn.org/city/vietnam/quang-ninh/nhue-ho-dong-trieu,21.1232473,106.2883295,15,N/A,16.5,2.5,1021,61,15,15,8,4
