@@ -186,3 +186,4 @@ timestamp,station_id,station_name,city_name,url,latitude,longitude,aqi,co,temper
 2025-04-09 03:00:00,1585,"Nha Trang, Vietnam",Nha Trang,https://aqicn.org/city/vietnam/nha-trang,12.284358,109.192524,61,4,24,1.2,1012,88,61,41,9,14
 2025-04-09 06:00:00,1585,"Nha Trang, Vietnam",Nha Trang,https://aqicn.org/city/vietnam/nha-trang,12.284358,109.192524,68,10,26.5,1.8,1014,76,68,45,10,15
 2025-04-09 07:00:00,1585,"Nha Trang, Vietnam",Nha Trang,https://aqicn.org/city/vietnam/nha-trang,12.284358,109.192524,60,7,28.5,1.8,1014,67,60,40,12,10
+2025-04-09 08:00:00,1585,"Nha Trang, Vietnam",Nha Trang,https://aqicn.org/city/vietnam/nha-trang,12.284358,109.192524,54,5,30,2.5,1014,58,54,35,15,6
