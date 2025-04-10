@@ -439,3 +439,5 @@ timestamp,station_id,station_name,city_name,url,latitude,longitude,aqi,co,temper
 2025-04-10 17:00:00,13422,"Hà Nội/Mầm non Vân Hà – Đông Anh, Vietnam",Quảng Ninh,https://aqicn.org/city/vietnam/ha-noi/mam-non-van-ha---dong-anh,21.1232473,106.2883295,80,0.1,27,5.6,1004,78,80,28,N/A,6.2
 2025-04-10 19:00:00,13665,"Lạng Sơn/Đông Tân - Hữu Lũng, Vietnam",Quảng Ninh,https://aqicn.org/city/vietnam/lang-son/dong-tan-huu-lung,20.9416,107.1158,58,1,24,5.9,1005,94,42,58,3,8
 2025-04-10 18:00:00,13422,"Hà Nội/Mầm non Vân Hà – Đông Anh, Vietnam",Quảng Ninh,https://aqicn.org/city/vietnam/ha-noi/mam-non-van-ha---dong-anh,21.1232473,106.2883295,88,0.1,24,6.1,1005,94,88,26,N/A,9.6
+2025-04-10 20:00:00,13665,"Lạng Sơn/Đông Tân - Hữu Lũng, Vietnam",Quảng Ninh,https://aqicn.org/city/vietnam/lang-son/dong-tan-huu-lung,20.9416,107.1158,53,1,24,5.1,1006,88,38,53,5,6
+2025-04-10 19:00:00,13422,"Hà Nội/Mầm non Vân Hà – Đông Anh, Vietnam",Quảng Ninh,https://aqicn.org/city/vietnam/ha-noi/mam-non-van-ha---dong-anh,21.1232473,106.2883295,116,0.1,24,5.4,1005.5,91,116,45,N/A,6.8
