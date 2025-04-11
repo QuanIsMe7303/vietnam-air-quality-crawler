@@ -244,3 +244,4 @@ timestamp,station_id,station_name,city_name,url,latitude,longitude,aqi,co,temper
 2025-04-11 18:00:00,13687,"Cần Thơ/Ninh Kiều - KTTV - Trạm cảm biến, Vietnam",Cần Thơ,https://aqicn.org/city/vietnam/can-tho/ninh-kieu-kttv-tram-cam-bien,10.026977,105.768249,36,1,29,2.5,1007,83,N/A,36,3,43
 2025-04-11 19:00:00,13687,"Cần Thơ/Ninh Kiều - KTTV - Trạm cảm biến, Vietnam",Cần Thơ,https://aqicn.org/city/vietnam/can-tho/ninh-kieu-kttv-tram-cam-bien,10.026977,105.768249,37,1,27.5,2.3,1007.5,91,N/A,37,3,41
 2025-04-11 20:00:00,13687,"Cần Thơ/Ninh Kiều - KTTV - Trạm cảm biến, Vietnam",Cần Thơ,https://aqicn.org/city/vietnam/can-tho/ninh-kieu-kttv-tram-cam-bien,10.026977,105.768249,37,1,27,1.5,1009,94,N/A,37,3,41
+2025-04-11 21:00:00,13687,"Cần Thơ/Ninh Kiều - KTTV - Trạm cảm biến, Vietnam",Cần Thơ,https://aqicn.org/city/vietnam/can-tho/ninh-kieu-kttv-tram-cam-bien,10.026977,105.768249,41,1,26.5,1.2,1009.5,97,N/A,41,3,39
