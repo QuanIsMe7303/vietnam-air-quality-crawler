@@ -603,3 +603,5 @@ timestamp,station_id,station_name,city_name,url,latitude,longitude,aqi,co,temper
 2025-04-14 09:00:00,13422,"Hà Nội/Mầm non Vân Hà – Đông Anh, Vietnam",Quảng Ninh,https://aqicn.org/city/vietnam/ha-noi/mam-non-van-ha---dong-anh,21.1232473,106.2883295,144,0.1,23,1.5,1017,64,144,62,N/A,7.5
 2025-04-14 11:00:00,14641,"Thái Bình/Trạm quan trắc khí tại Thái Thụy, Vietnam",Quảng Ninh,https://aqicn.org/city/vietnam/thai-binh/tram-quan-trac-khi-tai-thai-thuy,20.9416,107.1158,158,N/A,23.6,1,1017.6,62.4,128,158,N/A,N/A
 2025-04-14 10:00:00,13422,"Hà Nội/Mầm non Vân Hà – Đông Anh, Vietnam",Quảng Ninh,https://aqicn.org/city/vietnam/ha-noi/mam-non-van-ha---dong-anh,21.1232473,106.2883295,118,0.1,24.5,2,1017,56.5,118,56,N/A,5.9
+2025-04-14 12:00:00,14641,"Thái Bình/Trạm quan trắc khí tại Thái Thụy, Vietnam",Quảng Ninh,https://aqicn.org/city/vietnam/thai-binh/tram-quan-trac-khi-tai-thai-thuy,20.9416,107.1158,165,N/A,23.6,1,1017.6,62.4,131,165,N/A,N/A
+2025-04-14 11:00:00,13422,"Hà Nội/Mầm non Vân Hà – Đông Anh, Vietnam",Quảng Ninh,https://aqicn.org/city/vietnam/ha-noi/mam-non-van-ha---dong-anh,21.1232473,106.2883295,114,0.1,26.5,2.5,1017,49,114,55,N/A,5.9
