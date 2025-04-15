@@ -675,3 +675,5 @@ timestamp,station_id,station_name,city_name,url,latitude,longitude,aqi,co,temper
 2025-04-15 16:00:00,13658,"Đà Nẵng/Hòa Thuận Tây, Hải Châu - KTTV - Trạm cảm biến, Vietnam",Đà Nẵng,https://aqicn.org/city/vietnam/da-nang/hoa-thuan-tay--hai-chau-kttv-tram-cam-bien,16.074,108.217,242,N/A,25,3,1011,65,156,242,N/A,N/A
 2025-04-15 23:00:00,12488,"Thừa Thiên Huế/83 Hùng Vương, Vietnam",Đà Nẵng,https://aqicn.org/city/vietnam/thua-thien-hue/83-hung-vuong,16.043252,108.206826,62,6,22,1,1012.5,83,62,45,4,6
 2025-04-15 23:00:00,12488,"Thừa Thiên Huế/83 Hùng Vương, Vietnam",Đà Nẵng,https://aqicn.org/city/vietnam/thua-thien-hue/83-hung-vuong,16.074,108.217,62,6,22,1,1012.5,83,62,45,4,6
+2025-04-16 00:00:00,12488,"Thừa Thiên Huế/83 Hùng Vương, Vietnam",Đà Nẵng,https://aqicn.org/city/vietnam/thua-thien-hue/83-hung-vuong,16.043252,108.206826,57,4,22,1,1011.5,83,57,40,4,6
+2025-04-16 00:00:00,12488,"Thừa Thiên Huế/83 Hùng Vương, Vietnam",Đà Nẵng,https://aqicn.org/city/vietnam/thua-thien-hue/83-hung-vuong,16.074,108.217,57,4,22,1,1011.5,83,57,40,4,6
