@@ -861,3 +861,5 @@ timestamp,station_id,station_name,city_name,url,latitude,longitude,aqi,co,temper
 2025-04-19 17:00:00,13252,"Cao Bằng/Trạm khí TTQT, Vietnam",Cao Bằng,https://aqicn.org/city/vietnam/cao-bang/tram-khi-ttqt,22.6782,106.245,43,N/A,37,3,973.6,38.6,33,43,2,4
 2025-04-20 00:00:00,13667,"Lạng Sơn/xã Hồng Phong - Cao Lộc, Vietnam",Cao Bằng,https://aqicn.org/city/vietnam/lang-son/xa-hong-phong-cao-loc,22.67953,106.215361,21,2,26.1,1,975.5,85.1,21,17,15,2
 2025-04-20 00:00:00,13667,"Lạng Sơn/xã Hồng Phong - Cao Lộc, Vietnam",Cao Bằng,https://aqicn.org/city/vietnam/lang-son/xa-hong-phong-cao-loc,22.6782,106.245,21,2,26.1,1,975.5,85.1,21,17,15,2
+2025-04-20 02:00:00,13667,"Lạng Sơn/xã Hồng Phong - Cao Lộc, Vietnam",Cao Bằng,https://aqicn.org/city/vietnam/lang-son/xa-hong-phong-cao-loc,22.67953,106.215361,19,2,24.6,1,975.2,88.6,19,13,18,1
+2025-04-20 02:00:00,13667,"Lạng Sơn/xã Hồng Phong - Cao Lộc, Vietnam",Cao Bằng,https://aqicn.org/city/vietnam/lang-son/xa-hong-phong-cao-loc,22.6782,106.245,19,2,24.6,1,975.2,88.6,19,13,18,1
