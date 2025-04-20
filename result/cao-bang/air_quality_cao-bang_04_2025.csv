@@ -909,3 +909,5 @@ timestamp,station_id,station_name,city_name,url,latitude,longitude,aqi,co,temper
 2025-04-21 00:00:00,13667,"Lạng Sơn/xã Hồng Phong - Cao Lộc, Vietnam",Cao Bằng,https://aqicn.org/city/vietnam/lang-son/xa-hong-phong-cao-loc,22.6782,106.245,19,2,25.8,1,977.6,80.6,19,13,17,1
 2025-04-21 02:00:00,13667,"Lạng Sơn/xã Hồng Phong - Cao Lộc, Vietnam",Cao Bằng,https://aqicn.org/city/vietnam/lang-son/xa-hong-phong-cao-loc,22.67953,106.215361,20,1,24.8,1,977.3,86.5,20,12,15,1
 2025-04-21 02:00:00,13667,"Lạng Sơn/xã Hồng Phong - Cao Lộc, Vietnam",Cao Bằng,https://aqicn.org/city/vietnam/lang-son/xa-hong-phong-cao-loc,22.6782,106.245,20,1,24.8,1,977.3,86.5,20,12,15,1
+2025-04-21 03:00:00,13667,"Lạng Sơn/xã Hồng Phong - Cao Lộc, Vietnam",Cao Bằng,https://aqicn.org/city/vietnam/lang-son/xa-hong-phong-cao-loc,22.67953,106.215361,19,1,24.8,1,977.3,86.5,19,11,13,1
+2025-04-21 03:00:00,13667,"Lạng Sơn/xã Hồng Phong - Cao Lộc, Vietnam",Cao Bằng,https://aqicn.org/city/vietnam/lang-son/xa-hong-phong-cao-loc,22.6782,106.245,19,1,24.8,1,977.3,86.5,19,11,13,1
