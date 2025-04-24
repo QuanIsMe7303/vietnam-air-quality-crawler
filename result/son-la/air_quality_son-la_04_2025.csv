@@ -535,3 +535,4 @@ timestamp,station_id,station_name,city_name,url,latitude,longitude,aqi,co,temper
 2025-04-24 13:00:00,7219,"State Water Authority, Wenshan (文山州州水务局)",Sơn La,https://aqicn.org/city/china/wenshanzhou/zhoushuiwuju,22.3221386,104.1214227,82,1.9,28.4,2,866.2,42.1,82,42,N/A,3.7
 2025-04-24 14:00:00,7219,"State Water Authority, Wenshan (文山州州水务局)",Sơn La,https://aqicn.org/city/china/wenshanzhou/zhoushuiwuju,22.3221386,104.1214227,99,1.9,28.4,2,866.2,42.1,99,58,N/A,4.2
 2025-04-24 15:00:00,7219,"State Water Authority, Wenshan (文山州州水务局)",Sơn La,https://aqicn.org/city/china/wenshanzhou/zhoushuiwuju,22.3221386,104.1214227,78,2.8,30.3,8,863.8,34,78,46,N/A,6
+2025-04-24 16:00:00,7219,"State Water Authority, Wenshan (文山州州水务局)",Sơn La,https://aqicn.org/city/china/wenshanzhou/zhoushuiwuju,22.3221386,104.1214227,70,1.9,30.3,8,863.8,34,70,39,N/A,5.1
