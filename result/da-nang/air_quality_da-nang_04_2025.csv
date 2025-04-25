@@ -1145,3 +1145,5 @@ timestamp,station_id,station_name,city_name,url,latitude,longitude,aqi,co,temper
 2025-04-26 04:00:00,1584,"Da Nang, Vietnam (TP Đà Nẵng)",Đà Nẵng,https://aqicn.org/city/vietnam/da-nang,16.074,108.217,28,3,25,0.5,1009,91,28,19,N/A,19
 2025-04-26 05:00:00,1584,"Da Nang, Vietnam (TP Đà Nẵng)",Đà Nẵng,https://aqicn.org/city/vietnam/da-nang,16.043252,108.206826,32,3,25,1.5,1009.5,91,32,21,N/A,19
 2025-04-26 05:00:00,1584,"Da Nang, Vietnam (TP Đà Nẵng)",Đà Nẵng,https://aqicn.org/city/vietnam/da-nang,16.074,108.217,32,3,25,1.5,1009.5,91,32,21,N/A,19
+2025-04-26 06:00:00,1584,"Da Nang, Vietnam (TP Đà Nẵng)",Đà Nẵng,https://aqicn.org/city/vietnam/da-nang,16.043252,108.206826,38,3,24,2,1011,94,38,25,N/A,19
+2025-04-26 06:00:00,1584,"Da Nang, Vietnam (TP Đà Nẵng)",Đà Nẵng,https://aqicn.org/city/vietnam/da-nang,16.074,108.217,38,3,24,2,1011,94,38,25,N/A,19
