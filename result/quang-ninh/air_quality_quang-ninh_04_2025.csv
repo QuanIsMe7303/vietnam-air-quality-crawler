@@ -1173,3 +1173,5 @@ timestamp,station_id,station_name,city_name,url,latitude,longitude,aqi,co,temper
 2025-04-26 19:00:00,13253,"Bắc Ninh/UBND xã Cao Đức - Gia Bình, Vietnam",Quảng Ninh,https://aqicn.org/city/vietnam/bac-ninh/ubnd-xa-cao-duc-gia-binh,21.1232473,106.2883295,24,2,27,4.1,1009,78,24,16,28,N/A
 2025-04-26 20:00:00,14641,"Thái Bình/Trạm quan trắc khí tại Thái Thụy, Vietnam",Quảng Ninh,https://aqicn.org/city/vietnam/thai-binh/tram-quan-trac-khi-tai-thai-thuy,20.9416,107.1158,45,N/A,26,2,1009.5,88.2,45,37,N/A,N/A
 2025-04-26 20:00:00,13253,"Bắc Ninh/UBND xã Cao Đức - Gia Bình, Vietnam",Quảng Ninh,https://aqicn.org/city/vietnam/bac-ninh/ubnd-xa-cao-duc-gia-binh,21.1232473,106.2883295,24,2,27,4.6,1009,80.5,24,16,30,N/A
+2025-04-26 20:00:00,14641,"Thái Bình/Trạm quan trắc khí tại Thái Thụy, Vietnam",Quảng Ninh,https://aqicn.org/city/vietnam/thai-binh/tram-quan-trac-khi-tai-thai-thuy,20.9416,107.1158,45,N/A,26,2,1009.5,88.2,45,37,N/A,N/A
+2025-04-26 21:00:00,13253,"Bắc Ninh/UBND xã Cao Đức - Gia Bình, Vietnam",Quảng Ninh,https://aqicn.org/city/vietnam/bac-ninh/ubnd-xa-cao-duc-gia-binh,21.1232473,106.2883295,24,2,26.5,5.6,1009.5,85.5,24,16,28,N/A
