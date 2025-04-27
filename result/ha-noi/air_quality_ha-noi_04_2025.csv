@@ -4775,3 +4775,11 @@ timestamp,station_id,station_name,city_name,url,latitude,longitude,aqi,co,temper
 2025-04-27 05:00:00,8688,"United Nations International School of Hanoi, Vietnam (Trường Quốc tế Liên Hợp Quốc Hà Nội)",Hà Nội,https://aqicn.org/city/vietnam/hanoi/unis,21.04975,105.74187,128,N/A,25,3,1011,99,128,N/A,N/A,N/A
 2025-04-27 06:00:00,12960,"Bắc Ninh/Phù Xá - Văn Môn, Vietnam",Hà Nội,https://aqicn.org/city/vietnam/bac-ninh/phu-xa-van-mon,21.148273,105.913306,22,2,25,3,1011,94,22,13,3,N/A
 2025-04-27 05:00:00,8688,"United Nations International School of Hanoi, Vietnam (Trường Quốc tế Liên Hợp Quốc Hà Nội)",Hà Nội,https://aqicn.org/city/vietnam/hanoi/unis,21.002383,105.718038,128,N/A,25,3,1011,99,128,N/A,N/A,N/A
+2025-04-27 06:00:00,8688,"United Nations International School of Hanoi, Vietnam (Trường Quốc tế Liên Hợp Quốc Hà Nội)",Hà Nội,https://aqicn.org/city/vietnam/hanoi/unis,21.0811211,105.8180306,126,N/A,25.5,3,1012,98.5,126,N/A,N/A,N/A
+2025-04-27 06:00:00,8688,"United Nations International School of Hanoi, Vietnam (Trường Quốc tế Liên Hợp Quốc Hà Nội)",Hà Nội,https://aqicn.org/city/vietnam/hanoi/unis,21.01525,105.80013,126,N/A,25.5,3,1012,98.5,126,N/A,N/A,N/A
+2025-04-27 07:00:00,1583,"Hanoi, Vietnam (Hà Nội)",Hà Nội,https://aqicn.org/city/vietnam/hanoi,21.0491,105.8831,60,2,25,3.6,1011.5,97,60,36,7,N/A
+2025-04-27 06:00:00,8688,"United Nations International School of Hanoi, Vietnam (Trường Quốc tế Liên Hợp Quốc Hà Nội)",Hà Nội,https://aqicn.org/city/vietnam/hanoi/unis,21.0215063,105.8188748,126,N/A,25.5,3,1012,98.5,126,N/A,N/A,N/A
+2025-04-27 07:00:00,1583,"Hanoi, Vietnam (Hà Nội)",Hà Nội,https://aqicn.org/city/vietnam/hanoi,21.035584,105.852771,60,2,25,3.6,1011.5,97,60,36,7,N/A
+2025-04-27 06:00:00,8688,"United Nations International School of Hanoi, Vietnam (Trường Quốc tế Liên Hợp Quốc Hà Nội)",Hà Nội,https://aqicn.org/city/vietnam/hanoi/unis,21.04975,105.74187,126,N/A,25.5,3,1012,98.5,126,N/A,N/A,N/A
+2025-04-27 07:00:00,12960,"Bắc Ninh/Phù Xá - Văn Môn, Vietnam",Hà Nội,https://aqicn.org/city/vietnam/bac-ninh/phu-xa-van-mon,21.148273,105.913306,21,1,25,3.6,1011.5,97,21,13,3,N/A
+2025-04-27 06:00:00,8688,"United Nations International School of Hanoi, Vietnam (Trường Quốc tế Liên Hợp Quốc Hà Nội)",Hà Nội,https://aqicn.org/city/vietnam/hanoi/unis,21.002383,105.718038,126,N/A,25.5,3,1012,98.5,126,N/A,N/A,N/A
